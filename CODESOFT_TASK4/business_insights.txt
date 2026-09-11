@@ -1,0 +1,29 @@
+CUSTOMER DATA ANALYSIS - BUSINESS INSIGHTS
+============================================================
+
+KEY BUSINESS METRICS
+------------------------------------------------------------
+Total Customers: 1000
+Total Sales: 366808.86
+Average Purchase Amount: 366.81
+
+KEY INSIGHTS
+------------------------------------------------------------
+Best Product Category by Total Sales: Sports (82106.74)
+Best Location by Total Sales: Siliguri (41933.45)
+Highest Spending Age Group: 18-25 (388.82 average)
+Dominant Purchase Channel: Online (201960.42)
+Highest Average Spending Loyalty Status: Silver (388.30)
+Largest Customer Segment: Low Engagement (414 customers)
+Highest Sales Customer Segment: Potential (120219.55)
+
+MARKETING RECOMMENDATIONS
+------------------------------------------------------------
+1. High Value Customers: Offer VIP rewards, early access to new products, personalized offers, and exclusive discounts to improve retention.
+2. Potential Customers: Use targeted promotions, product recommendations, bundles, and loyalty upgrades to convert them into High Value customers.
+3. Loyal Customers: Provide exclusive membership benefits, repeat-purchase rewards, and personalized campaigns to maintain long-term loyalty.
+4. Low Engagement Customers: Run win-back campaigns, limited-time discounts, reminder messages, and personalized offers to increase engagement.
+5. Product Strategy: Focus promotional campaigns on high-performing product categories while using cross-selling and bundle offers for other categories.
+6. Location Strategy: Give additional promotional attention to locations with strong sales performance and create location-specific campaigns.
+7. Channel Strategy: Strengthen the online channel while encouraging omnichannel purchases through online-to-store and store-to-online offers.
+8. Loyalty Strategy: Provide higher-value rewards and personalized benefits to customers with stronger loyalty and purchasing activity.

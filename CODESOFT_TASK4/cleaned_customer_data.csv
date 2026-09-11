@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Location,Annual_Income,Purchase_Frequency,Purchase_Amount,Product_Category,Purchase_Channel,Loyalty_Status,Membership_Years,Spending_Score
+CUST0001,56,Male,Mumbai,24311.0,9,324.32,Clothing,Online,Basic,4.3,39
+CUST0002,46,Female,Mumbai,66202.0,16,600.35,Sports,Online,Gold,0.6,53
+CUST0003,32,Male,Kolkata,71493.0,5,220.86,Electronics,Online,Silver,3.0,19
+CUST0004,60,Male,Durgapur,42392.0,20,554.02,Clothing,Mixed,Basic,4.6,82
+CUST0005,25,Male,Siliguri,80965.0,10,260.45,Groceries,In-Store,Basic,1.3,26
+CUST0006,38,Female,Howrah,23462.0,18,412.79,Home & Garden,In-Store,Platinum,4.6,66
+CUST0007,56,Male,Bengaluru,63348.0,3,104.02,Sports,Online,Gold,8.6,7
+CUST0008,36,Female,Mumbai,34725.0,13,443.81,Groceries,Mixed,Silver,5.9,51
+CUST0009,40,Female,Bengaluru,48704.0,11,241.04,Clothing,In-Store,Silver,1.0,34
+CUST0010,28,Female,Bardhaman,66185.0,17,761.17,Sports,In-Store,Silver,2.1,65
+CUST0011,28,Male,Kolkata,43490.0,13,448.95,Electronics,Online,Basic,4.9,55
+CUST0012,41,Male,Mumbai,55386.0,6,263.63,Home & Garden,Mixed,Platinum,3.7,26
+CUST0013,53,Male,Bardhaman,90157.0,17,570.31,Clothing,In-Store,Basic,3.7,73
+CUST0014,57,Female,Howrah,50578.0,13,464.5,Home & Garden,Mixed,Silver,5.4,59
+CUST0015,41,Female,Howrah,85892.0,19,874.09,Sports,Online,Basic,5.9,94
+CUST0016,20,Male,Siliguri,36757.0,19,377.97,Groceries,Online,Silver,8.0,67
+CUST0017,39,Female,Kharagpur,78245.0,10,296.24,Home & Garden,Online,Silver,3.5,49
+CUST0018,19,Male,Siliguri,101039.0,3,195.41,Electronics,Online,Silver,8.1,8
+CUST0019,41,Male,Durgapur,18000.0,14,269.37,Clothing,Mixed,Basic,3.5,56
+CUST0020,61,Male,Bengaluru,45078.0,19,354.35,Electronics,Online,Silver,0.7,69
+CUST0021,47,Male,Delhi,79427.0,5,206.86,Home & Garden,Online,Basic,5.6,23
+CUST0022,55,Female,Howrah,59924.0,5,141.18,Groceries,Online,Basic,6.0,23
+CUST0023,19,Male,Delhi,74279.0,20,710.84,Groceries,Online,Basic,9.4,74
+CUST0024,38,Male,Kolkata,49900.0,17,431.02,Electronics,Online,Gold,7.3,53
+CUST0025,50,Male,Asansol,67165.0,10,478.61,Sports,In-Store,Silver,9.2,59
+CUST0026,29,Male,Mumbai,61108.0,5,233.12,Sports,In-Store,Silver,9.1,21
+CUST0027,39,Male,Kolkata,94195.0,4,223.49,Groceries,Online,Gold,6.1,18
+CUST0028,61,Male,Howrah,71361.0,6,285.94,Electronics,Online,Silver,5.4,18
+CUST0029,42,Male,Bardhaman,73440.0,4,210.04,Electronics,Online,Silver,5.7,7
+CUST0030,44,Female,Bengaluru,54703.0,7,187.97,Electronics,Online,Basic,9.8,26
+CUST0031,59,Female,Delhi,52810.0,7,315.27,Home & Garden,In-Store,Basic,7.8,28
+CUST0032,45,Female,Siliguri,54186.0,18,724.0,Sports,In-Store,Silver,1.2,76
+CUST0033,33,Female,Asansol,74861.0,3,196.33,Sports,In-Store,Silver,7.8,16
+CUST0034,32,Male,Kharagpur,54475.0,1,88.99,Home & Garden,In-Store,Gold,1.9,26
+CUST0035,64,Female,Kolkata,72244.0,4,331.61,Clothing,Online,Gold,4.6,14
+CUST0036,61,Female,Kharagpur,116885.0,6,285.9,Home & Garden,Mixed,Basic,2.3,40
+CUST0037,20,Female,Delhi,86778.0,9,418.37,Electronics,In-Store,Basic,7.0,53
+CUST0038,54,Male,Delhi,56849.0,14,292.4,Home & Garden,Mixed,Silver,8.8,55
+CUST0039,24,Female,Mumbai,95030.0,12,577.98,Electronics,Online,Basic,3.0,53
+CUST0040,38,Female,Bardhaman,54798.0,20,487.58,Groceries,Mixed,Basic,1.0,62
+CUST0041,26,Male,Bardhaman,18000.0,4,97.85,Electronics,In-Store,Gold,3.1,18
+CUST0042,56,Female,Durgapur,39798.0,12,264.63,Sports,In-Store,Basic,6.8,51
+CUST0043,35,Male,Siliguri,18230.0,10,171.53,Home & Garden,Online,Platinum,3.4,48
+CUST0044,21,Female,Howrah,56212.0,7,252.84,Electronics,In-Store,Gold,2.9,21
+CUST0045,42,Male,Howrah,65460.0,3,119.87,Clothing,Mixed,Gold,2.0,11
+CUST0046,31,Female,Delhi,106911.0,14,741.67,Groceries,In-Store,Basic,5.1,58
+CUST0047,26,Female,Kolkata,73173.0,10,411.61,Clothing,In-Store,Basic,2.9,38
+CUST0048,43,Female,Bengaluru,59522.0,16,370.03,Clothing,Mixed,Silver,7.4,63
+CUST0049,19,Male,Howrah,85735.0,16,668.46,Clothing,Online,Basic,1.0,63
+CUST0050,37,Female,Howrah,18000.0,10,436.46,Groceries,In-Store,Basic,6.7,37
+CUST0051,45,Male,Kolkata,70890.0,13,565.48,Groceries,Online,Basic,2.5,63
+CUST0052,64,Male,Siliguri,84272.0,6,195.47,Groceries,Mixed,Basic,5.0,27
+CUST0053,24,Male,Asansol,28035.0,12,524.46,Groceries,Online,Basic,3.0,55
+CUST0054,61,Male,Bardhaman,93594.0,9,434.91,Clothing,Online,Gold,7.3,36
+CUST0055,25,Female,Mumbai,73462.0,13,337.81,Sports,In-Store,Basic,9.5,59
+CUST0056,64,Female,Mumbai,54618.0,4,95.41,Sports,In-Store,Basic,9.2,15
+CUST0057,52,Female,Mumbai,80820.0,11,438.3,Groceries,In-Store,Silver,5.9,66
+CUST0058,31,Male,Kolkata,121767.0,20,470.75,Home & Garden,Mixed,Platinum,4.7,74
+CUST0059,34,Female,Mumbai,69547.0,18,782.3,Electronics,Mixed,Basic,8.2,60
+CUST0060,53,Male,Delhi,71206.0,11,362.02,Home & Garden,Online,Basic,6.9,25
+CUST0061,57,Male,Durgapur,53516.0,4,206.49,Home & Garden,Online,Silver,2.0,24
+CUST0062,21,Male,Kolkata,43754.0,18,605.41,Home & Garden,Online,Platinum,8.2,82
+CUST0063,19,Female,Kolkata,85758.0,1,89.26,Sports,Online,Gold,4.4,1
+CUST0064,23,Female,Bardhaman,43598.0,7,185.37,Electronics,Online,Silver,2.1,43
+CUST0065,59,Male,Mumbai,66789.0,6,227.18,Home & Garden,Mixed,Basic,3.0,38
+CUST0066,21,Female,Kharagpur,53059.0,15,630.25,Groceries,In-Store,Silver,2.8,66
+CUST0067,46,Female,Asansol,76974.0,18,739.38,Sports,Online,Basic,5.3,81
+CUST0068,35,Male,Durgapur,73342.0,11,347.13,Groceries,Online,Silver,2.5,50
+CUST0069,43,Male,Kolkata,90938.0,20,533.14,Groceries,In-Store,Gold,1.4,90
+CUST0070,61,Female,Durgapur,52250.0,15,278.05,Home & Garden,Online,Platinum,1.4,57
+CUST0071,51,Male,Kolkata,58253.0,16,617.54,Groceries,Online,Basic,5.9,68
+CUST0072,27,Male,Siliguri,40531.0,7,155.98,Electronics,Mixed,Basic,7.4,30
+CUST0073,53,Female,Bardhaman,53893.0,10,328.86,Groceries,Mixed,Silver,3.4,44
+CUST0074,31,Female,Delhi,74433.0,12,438.89,Home & Garden,Online,Gold,0.5,57
+CUST0075,48,Male,Siliguri,83925.0,14,647.6,Groceries,Mixed,Gold,1.4,50
+CUST0076,65,Female,Bengaluru,41946.0,5,144.56,Sports,Online,Basic,9.2,22
+CUST0077,32,Male,Mumbai,86740.0,18,477.16,Sports,In-Store,Basic,5.0,71
+CUST0078,25,Male,Bengaluru,98891.0,5,243.01,Sports,Online,Silver,4.6,22
+CUST0079,31,Female,Asansol,75336.0,3,173.55,Clothing,Online,Basic,0.6,21
+CUST0080,40,Male,Kharagpur,111920.0,5,264.08,Sports,Mixed,Gold,7.3,39
+CUST0081,57,Male,Delhi,45655.0,17,764.39,Sports,Online,Silver,5.4,76
+CUST0082,38,Male,Siliguri,33884.0,19,798.1,Clothing,In-Store,Gold,2.2,87
+CUST0083,33,Female,Durgapur,20532.0,19,429.34,Sports,Online,Silver,1.3,81
+CUST0084,62,Female,Durgapur,102401.0,12,382.36,Home & Garden,Online,Gold,4.0,48
+CUST0085,35,Female,Asansol,81359.0,9,369.05,Sports,Online,Basic,8.4,31
+CUST0086,64,Male,Kolkata,63610.0,1,111.87,Sports,Online,Gold,8.7,12
+CUST0087,41,Male,Durgapur,71999.0,18,382.4,Clothing,In-Store,Basic,6.1,46
+CUST0088,43,Female,Mumbai,36863.0,4,162.39,Home & Garden,Online,Silver,7.3,1
+CUST0089,42,Female,Kharagpur,126144.0,10,487.0,Groceries,In-Store,Basic,1.3,48
+CUST0090,62,Female,Bardhaman,68231.0,7,226.2,Electronics,In-Store,Silver,6.0,9
+CUST0091,58,Male,Mumbai,67735.0,1,80.93,Home & Garden,In-Store,Basic,6.7,1
+CUST0092,46,Female,Kharagpur,83144.0,17,835.7,Groceries,Online,Basic,2.2,75
+CUST0093,32,Male,Asansol,77025.0,2,79.88,Home & Garden,Mixed,Platinum,8.8,3
+CUST0094,62,Female,Mumbai,70597.0,11,341.76,Groceries,Online,Basic,2.1,42
+CUST0095,18,Male,Bardhaman,45238.0,9,283.56,Groceries,Online,Gold,3.3,44
+CUST0096,42,Male,Bardhaman,76787.0,7,357.08,Home & Garden,Online,Platinum,6.3,34
+CUST0097,24,Female,Howrah,112051.0,17,862.22,Clothing,Online,Basic,6.5,72
+CUST0098,26,Male,Kolkata,98636.0,17,572.49,Home & Garden,Online,Gold,7.1,79
+CUST0099,41,Female,Asansol,104830.0,2,161.03,Home & Garden,In-Store,Basic,1.3,1
+CUST0100,18,Male,Mumbai,52220.0,6,224.59,Groceries,Online,Basic,8.5,27
+CUST0101,61,Male,Delhi,40260.0,14,481.35,Electronics,Online,Silver,5.4,44
+CUST0102,25,Female,Delhi,61855.0,6,177.66,Groceries,In-Store,Platinum,4.8,25
+CUST0103,41,Male,Asansol,66393.0,2,97.63,Sports,Online,Basic,9.8,7
+CUST0104,28,Female,Mumbai,92355.0,1,132.42,Home & Garden,Online,Silver,7.5,16
+CUST0105,34,Female,Siliguri,22688.0,10,342.64,Home & Garden,Online,Silver,1.4,46
+CUST0106,25,Female,Siliguri,103239.0,5,162.04,Clothing,In-Store,Gold,7.6,15
+CUST0107,52,Male,Kolkata,61050.0,2,149.9,Groceries,Online,Basic,1.1,5
+CUST0108,52,Male,Mumbai,54328.0,16,375.72,Clothing,Online,Gold,0.5,55
+CUST0109,50,Male,Bardhaman,39697.0,2,89.52,Home & Garden,Online,Gold,4.2,24
+CUST0110,22,Female,Durgapur,23629.0,10,326.95,Groceries,In-Store,Silver,9.9,53
+CUST0111,59,Female,Delhi,85579.0,2,128.52,Groceries,In-Store,Platinum,1.9,3
+CUST0112,56,Male,Mumbai,66833.0,16,332.16,Sports,In-Store,Gold,6.8,63
+CUST0113,58,Male,Mumbai,32751.0,16,416.13,Sports,Online,Basic,1.9,46
+CUST0114,45,Female,Durgapur,32623.0,19,867.98,Electronics,Online,Silver,7.3,81
+CUST0115,24,Male,Durgapur,56605.0,7,189.79,Sports,Online,Basic,5.2,19
+CUST0116,26,Female,Kharagpur,106726.0,12,396.97,Groceries,Online,Basic,6.9,56
+CUST0117,25,Male,Howrah,58510.0,15,646.67,Sports,Online,Silver,2.2,55
+CUST0118,29,Female,Kolkata,27421.0,8,151.83,Electronics,Online,Basic,7.5,31
+CUST0119,51,Male,Delhi,58856.0,6,241.88,Home & Garden,Online,Silver,10.0,25
+CUST0120,50,Male,Durgapur,58182.0,10,313.05,Sports,In-Store,Platinum,6.7,38
+CUST0121,65,Female,Siliguri,18000.0,3,83.78,Groceries,Online,Basic,5.0,25
+CUST0122,40,Female,Asansol,63643.0,19,519.13,Home & Garden,In-Store,Platinum,9.2,86
+CUST0123,41,Female,Siliguri,59227.0,17,333.33,Groceries,Online,Silver,0.4,58
+CUST0124,54,Male,Kharagpur,82405.0,7,257.23,Home & Garden,Online,Silver,7.4,26
+CUST0125,52,Female,Kharagpur,111224.0,20,446.0,Groceries,Online,Gold,8.9,59
+CUST0126,61,Female,Durgapur,93164.0,4,224.94,Sports,Online,Basic,0.8,19
+CUST0127,57,Male,Kharagpur,58278.0,14,442.44,Sports,Online,Silver,4.6,71
+CUST0128,39,Female,Bardhaman,37337.0,20,599.45,Electronics,Online,Silver,2.2,76
+CUST0129,44,Female,Bengaluru,129334.0,15,736.72,Home & Garden,Mixed,Basic,5.8,74
+CUST0130,52,Female,Mumbai,66480.0,8,313.44,Electronics,In-Store,Platinum,6.6,22
+CUST0131,18,Male,Mumbai,65348.0,15,275.52,Clothing,Online,Gold,3.2,48
+CUST0132,52,Male,Durgapur,64397.0,20,943.07,Sports,In-Store,Basic,4.7,94
+CUST0133,54,Male,Kharagpur,69952.0,14,365.13,Home & Garden,In-Store,Basic,2.9,53
+CUST0134,64,Female,Asansol,61391.0,9,219.92,Electronics,In-Store,Silver,3.8,40
+CUST0135,31,Male,Bardhaman,50658.0,8,349.89,Electronics,In-Store,Basic,1.8,30
+CUST0136,20,Female,Kolkata,51329.0,17,558.64,Clothing,Online,Silver,8.9,53
+CUST0137,18,Female,Kharagpur,64181.0,2,91.07,Electronics,Online,Basic,0.3,18
+CUST0138,22,Female,Bardhaman,51414.0,3,107.13,Groceries,Online,Silver,8.8,5
+CUST0139,43,Male,Howrah,47179.0,8,300.57,Sports,Online,Basic,5.8,37
+CUST0140,31,Male,Kolkata,67661.0,12,322.79,Electronics,Online,Basic,3.5,49
+CUST0141,56,Female,Mumbai,58626.0,1,80.31,Electronics,In-Store,Silver,7.3,1
+CUST0142,44,Female,Howrah,102600.0,10,266.64,Clothing,Mixed,Silver,5.2,46
+CUST0143,26,Male,Durgapur,18000.0,20,845.52,Groceries,Mixed,Platinum,5.1,82
+CUST0144,32,Male,Delhi,92288.0,3,202.59,Electronics,Mixed,Gold,1.3,16
+CUST0145,32,Male,Durgapur,96152.0,6,290.95,Sports,In-Store,Basic,4.0,24
+CUST0146,43,Female,Asansol,18000.0,7,266.28,Sports,Mixed,Basic,2.6,42
+CUST0147,59,Male,Bardhaman,56433.0,20,759.36,Electronics,Online,Gold,0.4,94
+CUST0148,30,Male,Delhi,55714.0,18,503.58,Groceries,Online,Platinum,3.7,54
+CUST0149,49,Male,Kolkata,29812.0,11,271.42,Sports,Online,Gold,1.1,58
+CUST0150,56,Female,Kolkata,45555.0,19,442.19,Sports,In-Store,Basic,2.7,63
+CUST0151,49,Male,Howrah,37236.0,5,243.4,Groceries,Online,Platinum,1.1,40
+CUST0152,21,Female,Asansol,108807.0,19,856.8,Groceries,In-Store,Basic,1.2,82
+CUST0153,47,Female,Mumbai,88392.0,11,413.99,Electronics,Online,Gold,2.2,43
+CUST0154,54,Female,Kharagpur,96789.0,12,335.44,Home & Garden,Online,Platinum,10.0,43
+CUST0155,40,Male,Kharagpur,83042.0,10,321.94,Clothing,In-Store,Basic,0.2,36
+CUST0156,56,Male,Delhi,36774.0,8,294.52,Home & Garden,Online,Platinum,6.5,53
+CUST0157,62,Male,Asansol,51887.0,9,288.51,Home & Garden,Online,Basic,1.6,35
+CUST0158,32,Female,Asansol,77234.0,4,211.76,Sports,Online,Platinum,9.2,16
+CUST0159,60,Male,Kolkata,34447.0,5,267.69,Groceries,Online,Basic,1.1,24
+CUST0160,46,Female,Mumbai,82825.0,8,232.49,Sports,In-Store,Platinum,9.6,23
+CUST0161,53,Male,Bardhaman,58992.0,9,298.36,Clothing,Online,Basic,6.2,49
+CUST0162,30,Male,Mumbai,55629.0,15,478.57,Electronics,In-Store,Gold,0.2,47
+CUST0163,49,Male,Siliguri,82774.0,15,437.09,Clothing,Online,Silver,9.0,53
+CUST0164,24,Male,Asansol,76107.0,16,381.68,Sports,In-Store,Silver,5.3,66
+CUST0165,39,Female,Durgapur,55976.0,14,281.56,Sports,Online,Basic,2.8,49
+CUST0166,45,Female,Bengaluru,93983.0,8,409.11,Sports,In-Store,Gold,7.7,42
+CUST0167,19,Female,Asansol,37973.0,18,537.17,Sports,In-Store,Basic,9.3,82
+CUST0168,59,Female,Delhi,80398.0,10,340.51,Home & Garden,Online,Silver,4.9,48
+CUST0169,62,Male,Durgapur,79828.0,20,906.19,Electronics,Mixed,Basic,3.3,90
+CUST0170,23,Female,Delhi,57261.0,6,280.59,Home & Garden,In-Store,Platinum,7.9,44
+CUST0171,45,Female,Howrah,73153.0,12,278.31,Sports,Online,Basic,6.9,38
+CUST0172,45,Female,Bengaluru,33722.0,2,96.68,Groceries,Online,Basic,8.9,8
+CUST0173,61,Male,Bengaluru,88101.0,7,273.76,Home & Garden,Mixed,Basic,7.0,29
+CUST0174,61,Female,Kolkata,60377.0,16,669.23,Sports,In-Store,Silver,2.6,68
+CUST0175,37,Female,Asansol,51932.0,3,173.12,Sports,Online,Basic,9.3,6
+CUST0176,47,Male,Kolkata,91225.0,13,553.12,Electronics,Online,Silver,1.2,44
+CUST0177,28,Male,Kharagpur,47391.0,3,103.96,Clothing,In-Store,Gold,2.8,15
+CUST0178,45,Female,Delhi,29788.0,18,732.09,Home & Garden,In-Store,Gold,5.3,72
+CUST0179,42,Female,Siliguri,26084.0,11,210.6,Home & Garden,In-Store,Silver,5.7,53
+CUST0180,56,Male,Siliguri,80150.0,8,240.97,Home & Garden,Online,Basic,0.4,30
+CUST0181,50,Female,Kharagpur,32989.0,6,171.16,Sports,In-Store,Gold,7.8,21
+CUST0182,18,Male,Howrah,108870.0,1,151.14,Electronics,Online,Basic,3.7,17
+CUST0183,44,Female,Siliguri,18000.0,1,37.11,Sports,Online,Gold,4.2,7
+CUST0184,30,Female,Delhi,107411.0,8,385.75,Sports,In-Store,Basic,8.1,35
+CUST0185,58,Female,Siliguri,70275.0,5,261.87,Groceries,Mixed,Silver,3.9,18
+CUST0186,20,Female,Kharagpur,62582.0,16,422.11,Electronics,Online,Basic,0.7,89
+CUST0187,56,Female,Durgapur,51377.0,11,308.94,Home & Garden,Online,Gold,1.9,45
+CUST0188,23,Male,Kolkata,74978.0,5,161.34,Clothing,In-Store,Basic,9.6,28
+CUST0189,25,Male,Bardhaman,64059.0,4,131.37,Home & Garden,Online,Silver,0.9,8
+CUST0190,44,Female,Delhi,92583.0,6,201.81,Sports,In-Store,Basic,3.7,19
+CUST0191,26,Female,Kolkata,67856.0,14,650.77,Electronics,In-Store,Gold,5.1,80
+CUST0192,54,Female,Bengaluru,68758.0,19,442.78,Electronics,Online,Platinum,5.0,80
+CUST0193,50,Male,Mumbai,55910.0,9,278.53,Electronics,Mixed,Silver,0.2,39
+CUST0194,59,Male,Siliguri,63576.0,12,222.05,Groceries,In-Store,Silver,5.1,38
+CUST0195,61,Male,Siliguri,72695.0,11,496.11,Home & Garden,Mixed,Platinum,4.0,47
+CUST0196,41,Male,Howrah,22246.0,14,539.31,Groceries,In-Store,Silver,9.7,53
+CUST0197,32,Male,Kolkata,31295.0,16,713.78,Clothing,Mixed,Silver,1.8,61
+CUST0198,49,Male,Mumbai,83582.0,1,87.69,Sports,Online,Silver,3.7,13
+CUST0199,49,Male,Siliguri,69272.0,13,391.71,Groceries,Online,Gold,4.3,55
+CUST0200,41,Male,Bengaluru,60400.0,13,352.27,Groceries,Mixed,Basic,4.0,55
+CUST0201,58,Female,Howrah,65461.0,2,125.97,Sports,Online,Gold,6.7,7
+CUST0202,29,Male,Kolkata,73690.0,4,170.9,Electronics,Online,Silver,2.3,19
+CUST0203,56,Male,Howrah,51506.0,6,229.72,Sports,In-Store,Basic,2.4,22
+CUST0204,19,Male,Kolkata,45542.0,5,115.19,Home & Garden,In-Store,Gold,7.3,12
+CUST0205,20,Male,Asansol,69896.0,3,112.08,Sports,Online,Basic,5.1,26
+CUST0206,54,Female,Asansol,40541.0,1,63.11,Electronics,Mixed,Basic,4.3,6
+CUST0207,34,Male,Kharagpur,75206.0,4,216.67,Sports,In-Store,Silver,1.9,23
+CUST0208,19,Female,Delhi,22435.0,20,762.36,Groceries,Online,Gold,2.0,90
+CUST0209,19,Female,Howrah,90729.0,2,136.51,Clothing,In-Store,Gold,0.3,12
+CUST0210,45,Female,Kharagpur,76815.0,5,197.55,Groceries,Online,Platinum,1.1,23
+CUST0211,40,Male,Howrah,71401.0,3,140.91,Clothing,Online,Gold,5.7,5
+CUST0212,54,Male,Siliguri,89567.0,9,246.32,Sports,Online,Basic,8.9,27
+CUST0213,49,Male,Bardhaman,106637.0,20,667.06,Home & Garden,Online,Basic,3.0,72
+CUST0214,50,Female,Howrah,90359.0,6,171.19,Sports,Online,Gold,3.4,28
+CUST0215,18,Female,Siliguri,18978.0,18,407.21,Electronics,In-Store,Basic,1.3,65
+CUST0216,36,Female,Mumbai,33011.0,6,176.07,Sports,In-Store,Silver,4.0,16
+CUST0217,19,Female,Asansol,49380.0,19,483.7,Clothing,In-Store,Silver,0.6,75
+CUST0218,61,Male,Kharagpur,65652.0,12,270.67,Groceries,In-Store,Basic,9.2,47
+CUST0219,43,Male,Bardhaman,77941.0,11,265.25,Home & Garden,Online,Platinum,6.8,35
+CUST0220,49,Male,Bengaluru,46856.0,2,80.12,Sports,Online,Silver,9.9,8
+CUST0221,23,Female,Asansol,69669.0,15,298.72,Sports,Mixed,Silver,8.9,57
+CUST0222,49,Female,Kharagpur,46115.0,12,445.26,Groceries,Online,Platinum,4.8,43
+CUST0223,21,Male,Bardhaman,49712.0,12,312.71,Home & Garden,Online,Silver,5.3,49
+CUST0224,28,Male,Bengaluru,29833.0,9,246.96,Sports,In-Store,Basic,2.1,36
+CUST0225,34,Female,Durgapur,41919.0,2,93.34,Sports,Online,Silver,4.7,1
+CUST0226,55,Male,Siliguri,31208.0,3,142.55,Clothing,Mixed,Gold,9.0,15
+CUST0227,41,Male,Durgapur,40603.0,12,520.63,Clothing,Online,Gold,0.7,55
+CUST0228,22,Female,Siliguri,91341.0,16,710.27,Electronics,Online,Gold,8.7,65
+CUST0229,51,Female,Kolkata,41265.0,1,82.49,Groceries,Online,Gold,3.5,1
+CUST0230,23,Female,Delhi,130810.0,3,220.43,Home & Garden,In-Store,Basic,9.0,8
+CUST0231,39,Male,Bardhaman,77333.0,20,791.2,Sports,Online,Gold,9.4,81
+CUST0232,28,Female,Durgapur,69621.0,2,114.51,Sports,Online,Gold,6.8,10
+CUST0233,65,Male,Delhi,43541.0,9,241.82,Electronics,Mixed,Basic,6.7,29
+CUST0234,33,Male,Bardhaman,82508.0,19,476.18,Sports,Mixed,Basic,4.6,58
+CUST0235,50,Female,Kharagpur,50609.0,15,386.37,Groceries,Online,Platinum,8.4,50
+CUST0236,26,Male,Kolkata,68050.0,18,811.83,Electronics,Online,Gold,9.6,76
+CUST0237,23,Female,Kharagpur,129002.0,11,500.64,Groceries,Online,Gold,7.8,55
+CUST0238,33,Female,Siliguri,62599.0,16,663.51,Electronics,Mixed,Gold,6.3,73
+CUST0239,46,Male,Delhi,93732.0,17,547.64,Sports,Mixed,Silver,6.1,74
+CUST0240,20,Male,Bardhaman,47421.0,5,182.2,Electronics,Online,Silver,8.5,15
+CUST0241,37,Female,Howrah,64125.0,12,269.17,Clothing,In-Store,Silver,5.5,44
+CUST0242,53,Female,Delhi,109270.0,11,289.51,Home & Garden,Online,Basic,8.1,22
+CUST0243,36,Female,Mumbai,49326.0,15,628.89,Sports,Online,Gold,5.2,68
+CUST0244,43,Female,Bengaluru,110311.0,3,154.43,Home & Garden,Online,Silver,0.8,19
+CUST0245,20,Female,Durgapur,82694.0,1,90.7,Sports,Online,Silver,4.0,3
+CUST0246,36,Female,Bardhaman,50938.0,20,814.49,Home & Garden,Online,Silver,4.6,88
+CUST0247,37,Male,Asansol,80810.0,16,423.68,Clothing,Online,Silver,1.6,48
+CUST0248,49,Male,Asansol,89314.0,2,195.85,Home & Garden,In-Store,Basic,1.2,6
+CUST0249,24,Male,Bengaluru,80545.0,2,116.97,Electronics,Online,Basic,5.4,16
+CUST0250,58,Male,Siliguri,25744.0,3,105.18,Home & Garden,In-Store,Basic,1.0,16
+CUST0251,50,Female,Delhi,46822.0,8,239.53,Sports,Online,Basic,3.2,28
+CUST0252,57,Male,Delhi,58812.0,15,320.26,Groceries,Online,Platinum,7.5,60
+CUST0253,56,Male,Asansol,63139.0,7,176.76,Home & Garden,Online,Basic,9.7,27
+CUST0254,35,Female,Delhi,80517.0,6,251.99,Home & Garden,Online,Basic,7.2,22
+CUST0255,57,Male,Bengaluru,69443.0,9,423.37,Home & Garden,Online,Silver,9.9,39
+CUST0256,18,Female,Delhi,31616.0,20,806.19,Sports,Online,Silver,7.0,81
+CUST0257,28,Female,Siliguri,74505.0,1,60.52,Home & Garden,Online,Basic,3.1,1
+CUST0258,45,Female,Durgapur,80265.0,8,303.44,Sports,Online,Gold,6.8,43
+CUST0259,42,Female,Mumbai,78995.0,3,116.6,Sports,In-Store,Gold,7.1,8
+CUST0260,40,Female,Durgapur,92020.0,4,179.22,Groceries,In-Store,Basic,3.8,11
+CUST0261,48,Male,Mumbai,85848.0,15,613.83,Electronics,Online,Basic,0.4,52
+CUST0262,47,Male,Howrah,76480.0,6,266.64,Sports,Online,Platinum,7.1,5
+CUST0263,59,Male,Durgapur,63246.0,15,299.05,Clothing,Online,Gold,0.4,58
+CUST0264,52,Female,Bengaluru,23476.0,3,73.63,Home & Garden,In-Store,Gold,6.4,17
+CUST0265,24,Male,Kolkata,75740.0,14,708.17,Clothing,Online,Basic,1.8,74
+CUST0266,33,Male,Howrah,70192.0,20,384.75,Home & Garden,Online,Silver,5.7,68
+CUST0267,43,Male,Mumbai,71789.0,14,485.92,Groceries,Online,Silver,5.1,54
+CUST0268,65,Male,Mumbai,33081.0,4,145.16,Sports,Mixed,Basic,0.3,12
+CUST0269,19,Female,Howrah,37974.0,12,268.02,Electronics,Online,Silver,3.8,40
+CUST0270,18,Male,Mumbai,91329.0,17,449.54,Sports,In-Store,Silver,6.1,72
+CUST0271,65,Female,Bardhaman,64011.0,7,211.44,Home & Garden,Online,Basic,8.5,27
+CUST0272,29,Female,Kolkata,82038.0,9,409.37,Electronics,Mixed,Gold,8.9,43
+CUST0273,22,Male,Bengaluru,65708.0,3,171.64,Sports,In-Store,Gold,4.9,11
+CUST0274,54,Female,Bardhaman,65744.0,13,481.74,Electronics,Online,Basic,7.3,64
+CUST0275,49,Female,Mumbai,88457.0,15,748.9,Home & Garden,In-Store,Gold,3.3,54
+CUST0276,26,Female,Durgapur,52099.0,18,749.02,Groceries,Online,Basic,3.6,68
+CUST0277,58,Female,Bardhaman,67403.0,19,594.37,Groceries,In-Store,Gold,2.1,77
+CUST0278,52,Female,Durgapur,53443.0,1,62.72,Sports,In-Store,Basic,5.7,19
+CUST0279,36,Female,Howrah,54138.0,6,252.09,Clothing,Online,Basic,3.3,24
+CUST0280,65,Female,Delhi,57271.0,2,107.34,Home & Garden,In-Store,Silver,1.0,3
+CUST0281,33,Male,Kharagpur,70553.0,14,483.08,Sports,Online,Silver,6.9,64
+CUST0282,20,Male,Mumbai,53031.0,6,235.54,Sports,Online,Platinum,7.1,28
+CUST0283,37,Female,Kharagpur,96394.0,14,311.85,Groceries,Online,Basic,3.7,60
+CUST0284,41,Female,Kolkata,42635.0,4,149.4,Electronics,In-Store,Basic,1.0,6
+CUST0285,50,Male,Durgapur,60328.0,8,250.6,Home & Garden,Online,Silver,4.4,41
+CUST0286,41,Male,Bardhaman,54007.0,3,109.18,Electronics,Online,Silver,4.5,1
+CUST0287,28,Male,Kharagpur,101174.0,19,434.03,Home & Garden,In-Store,Basic,6.8,66
+CUST0288,25,Male,Siliguri,69914.0,14,534.47,Clothing,Online,Gold,3.3,62
+CUST0289,53,Female,Mumbai,90796.0,20,669.36,Groceries,Online,Gold,6.9,81
+CUST0290,55,Female,Kharagpur,27861.0,17,410.7,Clothing,Online,Gold,8.7,70
+CUST0291,57,Male,Bardhaman,71676.0,8,278.12,Sports,Online,Platinum,2.5,18
+CUST0292,37,Male,Bardhaman,87241.0,14,520.92,Groceries,Online,Basic,9.8,59
+CUST0293,52,Male,Kolkata,67057.0,6,162.07,Sports,Online,Gold,4.0,32
+CUST0294,65,Male,Asansol,91637.0,16,628.4,Clothing,Mixed,Basic,2.8,68
+CUST0295,42,Female,Bengaluru,52068.0,19,783.33,Home & Garden,In-Store,Silver,4.3,72
+CUST0296,52,Male,Siliguri,100234.0,14,626.96,Sports,Online,Silver,1.1,70
+CUST0297,42,Male,Kharagpur,122472.0,19,698.1,Electronics,Online,Platinum,1.4,73
+CUST0298,46,Male,Bengaluru,55929.0,3,142.22,Home & Garden,Online,Gold,4.3,7
+CUST0299,35,Female,Siliguri,53862.0,10,221.15,Home & Garden,In-Store,Platinum,7.7,28
+CUST0300,63,Female,Asansol,101335.0,19,553.22,Clothing,Online,Gold,9.0,71
+CUST0301,35,Female,Kharagpur,104489.0,9,241.68,Clothing,Online,Platinum,6.7,35
+CUST0302,19,Male,Siliguri,51928.0,20,926.21,Groceries,Mixed,Gold,1.2,79
+CUST0303,52,Male,Bengaluru,54495.0,13,293.35,Groceries,Online,Silver,6.8,38
+CUST0304,33,Male,Durgapur,57955.0,7,195.06,Electronics,Online,Basic,6.4,21
+CUST0305,58,Female,Bardhaman,31389.0,14,613.05,Home & Garden,Mixed,Basic,8.1,54
+CUST0306,53,Female,Delhi,42034.0,9,427.45,Electronics,In-Store,Basic,8.3,41
+CUST0307,50,Male,Howrah,39896.0,19,748.94,Electronics,Online,Silver,8.7,83
+CUST0308,21,Male,Mumbai,45805.0,15,250.4,Clothing,In-Store,Silver,4.3,52
+CUST0309,50,Female,Delhi,64133.0,20,341.25,Electronics,Online,Silver,7.0,69
+CUST0310,31,Male,Kharagpur,70855.0,14,410.45,Electronics,In-Store,Platinum,2.8,67
+CUST0311,38,Male,Kharagpur,103763.0,6,202.64,Sports,Online,Platinum,10.0,27
+CUST0312,65,Male,Siliguri,40041.0,4,100.61,Groceries,In-Store,Basic,1.9,21
+CUST0313,37,Female,Bardhaman,89608.0,8,290.5,Groceries,Mixed,Basic,0.3,29
+CUST0314,25,Male,Asansol,59650.0,17,807.8,Home & Garden,Mixed,Silver,1.7,84
+CUST0315,24,Male,Kolkata,63763.0,9,254.63,Groceries,Mixed,Basic,7.8,31
+CUST0316,20,Male,Siliguri,81870.0,1,123.19,Home & Garden,Online,Gold,4.6,11
+CUST0317,34,Male,Kolkata,36932.0,20,727.12,Sports,Online,Silver,4.6,71
+CUST0318,50,Female,Howrah,74560.0,14,373.62,Groceries,Online,Silver,9.6,54
+CUST0319,65,Female,Bengaluru,69161.0,11,416.84,Sports,In-Store,Gold,9.2,38
+CUST0320,29,Female,Siliguri,77311.0,3,139.15,Groceries,Mixed,Gold,3.2,21
+CUST0321,39,Male,Howrah,72229.0,9,224.95,Groceries,Online,Basic,2.2,40
+CUST0322,39,Female,Mumbai,126383.0,14,656.52,Sports,Mixed,Gold,8.5,59
+CUST0323,63,Male,Siliguri,49057.0,9,210.1,Electronics,In-Store,Silver,9.1,49
+CUST0324,47,Female,Bardhaman,51725.0,4,241.94,Electronics,Mixed,Basic,5.5,18
+CUST0325,55,Male,Bardhaman,49421.0,4,114.9,Electronics,Mixed,Basic,6.4,2
+CUST0326,55,Female,Kharagpur,51113.0,8,315.97,Electronics,Online,Silver,2.7,27
+CUST0327,62,Female,Mumbai,49065.0,2,101.93,Groceries,Online,Basic,8.0,1
+CUST0328,25,Female,Kharagpur,94725.0,9,269.02,Clothing,Online,Basic,6.4,38
+CUST0329,44,Male,Kolkata,100513.0,14,288.13,Sports,Online,Gold,5.1,39
+CUST0330,44,Male,Delhi,50731.0,9,353.81,Clothing,In-Store,Gold,0.8,34
+CUST0331,51,Male,Asansol,44191.0,16,665.85,Clothing,In-Store,Basic,9.2,71
+CUST0332,38,Female,Mumbai,76785.0,17,765.6,Home & Garden,Mixed,Basic,6.2,76
+CUST0333,47,Male,Bengaluru,51194.0,16,509.86,Electronics,In-Store,Gold,2.1,63
+CUST0334,50,Male,Asansol,80823.0,12,554.25,Groceries,Online,Basic,6.1,55
+CUST0335,45,Male,Siliguri,70073.0,3,145.02,Electronics,Online,Platinum,6.8,11
+CUST0336,64,Male,Durgapur,27106.0,11,433.97,Electronics,Online,Silver,5.4,34
+CUST0337,50,Male,Siliguri,103688.0,14,535.72,Clothing,Online,Basic,7.2,55
+CUST0338,22,Male,Bengaluru,109897.0,18,734.35,Home & Garden,Online,Basic,5.9,81
+CUST0339,65,Female,Mumbai,49680.0,5,239.77,Electronics,Online,Basic,9.5,22
+CUST0340,36,Female,Kharagpur,55307.0,16,476.82,Sports,Online,Basic,0.7,65
+CUST0341,21,Male,Kolkata,72147.0,20,873.57,Sports,Online,Basic,1.2,83
+CUST0342,52,Female,Siliguri,73361.0,5,213.09,Electronics,In-Store,Silver,1.9,30
+CUST0343,34,Female,Durgapur,81464.0,3,134.08,Clothing,Online,Basic,7.0,1
+CUST0344,61,Male,Kolkata,115255.0,12,304.49,Clothing,Online,Silver,6.5,45
+CUST0345,45,Male,Mumbai,60576.0,1,88.01,Groceries,Online,Silver,8.9,17
+CUST0346,47,Female,Delhi,45043.0,9,312.02,Home & Garden,Mixed,Basic,7.4,48
+CUST0347,46,Male,Asansol,30517.0,9,391.98,Clothing,Online,Basic,5.2,37
+CUST0348,63,Female,Durgapur,46727.0,4,127.34,Groceries,Online,Basic,9.9,5
+CUST0349,23,Female,Kolkata,64172.0,3,151.51,Sports,In-Store,Basic,2.8,25
+CUST0350,52,Female,Kharagpur,109864.0,17,825.17,Sports,In-Store,Gold,8.4,77
+CUST0351,58,Male,Durgapur,52060.0,2,66.22,Sports,Mixed,Basic,4.4,7
+CUST0352,54,Female,Kolkata,70595.0,1,94.69,Electronics,Online,Gold,6.6,1
+CUST0353,41,Male,Durgapur,64589.0,8,391.01,Home & Garden,Online,Silver,7.3,27
+CUST0354,46,Male,Kharagpur,94710.0,13,531.3,Groceries,Online,Silver,6.4,60
+CUST0355,63,Male,Kharagpur,128173.0,15,729.82,Home & Garden,In-Store,Silver,1.6,74
+CUST0356,48,Male,Bengaluru,51728.0,8,398.29,Electronics,Online,Gold,4.5,38
+CUST0357,52,Male,Bardhaman,52764.0,12,441.16,Groceries,Online,Basic,5.7,43
+CUST0358,50,Female,Asansol,91104.0,12,351.11,Groceries,Online,Basic,8.5,38
+CUST0359,38,Male,Siliguri,82047.0,14,639.53,Clothing,Online,Silver,4.5,51
+CUST0360,49,Male,Siliguri,111168.0,15,606.69,Home & Garden,Online,Basic,9.2,59
+CUST0361,40,Male,Mumbai,79598.0,15,548.56,Home & Garden,In-Store,Silver,4.5,54
+CUST0362,50,Male,Howrah,56018.0,9,245.48,Clothing,In-Store,Silver,5.6,20
+CUST0363,20,Male,Mumbai,79766.0,19,808.94,Sports,Online,Silver,8.0,87
+CUST0364,35,Female,Howrah,92718.0,20,422.01,Electronics,Online,Silver,5.9,60
+CUST0365,42,Male,Durgapur,85512.0,8,416.24,Home & Garden,In-Store,Silver,9.6,45
+CUST0366,59,Male,Howrah,77682.0,19,526.07,Clothing,Online,Gold,6.7,75
+CUST0367,48,Female,Bardhaman,91667.0,6,212.92,Groceries,Online,Gold,5.3,27
+CUST0368,20,Male,Bardhaman,94232.0,20,640.63,Clothing,Online,Silver,0.4,92
+CUST0369,57,Female,Asansol,99554.0,19,397.33,Sports,In-Store,Silver,4.3,57
+CUST0370,63,Female,Kolkata,81218.0,4,198.2,Electronics,Mixed,Gold,3.1,25
+CUST0371,41,Female,Siliguri,60822.0,7,370.03,Sports,In-Store,Silver,7.5,31
+CUST0372,49,Female,Asansol,68668.0,4,209.82,Groceries,Online,Silver,2.2,39
+CUST0373,64,Male,Bardhaman,95163.0,12,328.44,Groceries,Online,Gold,2.2,42
+CUST0374,39,Male,Kolkata,44577.0,13,280.83,Groceries,Mixed,Silver,2.1,42
+CUST0375,40,Female,Mumbai,74217.0,3,166.8,Groceries,Online,Basic,1.4,18
+CUST0376,19,Female,Siliguri,55167.0,12,573.4,Clothing,Mixed,Gold,3.2,53
+CUST0377,44,Male,Bengaluru,65719.0,2,106.94,Groceries,Mixed,Basic,8.9,3
+CUST0378,59,Female,Siliguri,96961.0,2,171.34,Groceries,Online,Gold,7.8,4
+CUST0379,19,Female,Durgapur,69777.0,9,303.72,Clothing,Mixed,Gold,7.4,48
+CUST0380,43,Female,Delhi,66161.0,1,117.57,Groceries,Online,Platinum,8.0,1
+CUST0381,34,Male,Siliguri,31004.0,8,291.09,Sports,In-Store,Basic,2.8,35
+CUST0382,57,Female,Bardhaman,83656.0,6,233.11,Sports,Online,Silver,8.9,34
+CUST0383,50,Male,Durgapur,81137.0,6,209.38,Home & Garden,Online,Silver,1.5,33
+CUST0384,26,Male,Kharagpur,119081.0,18,888.82,Sports,In-Store,Basic,3.5,78
+CUST0385,60,Male,Howrah,57306.0,17,318.03,Electronics,In-Store,Basic,6.0,57
+CUST0386,65,Female,Mumbai,70479.0,12,375.49,Electronics,Online,Silver,1.2,44
+CUST0387,56,Female,Bengaluru,71235.0,6,252.08,Electronics,In-Store,Silver,7.4,14
+CUST0388,46,Male,Mumbai,104436.0,8,249.7,Clothing,Online,Basic,4.0,36
+CUST0389,59,Male,Kharagpur,62618.0,19,375.59,Sports,Online,Silver,7.9,66
+CUST0390,43,Male,Delhi,71976.0,10,472.89,Electronics,Online,Gold,5.0,57
+CUST0391,52,Female,Siliguri,80197.0,1,107.16,Home & Garden,Online,Gold,2.0,1
+CUST0392,42,Female,Asansol,69665.0,13,577.17,Clothing,Online,Platinum,7.4,66
+CUST0393,41,Male,Durgapur,53839.0,17,772.0,Home & Garden,Online,Silver,2.7,85
+CUST0394,30,Male,Bengaluru,69852.0,3,161.08,Sports,Online,Platinum,5.0,15
+CUST0395,24,Female,Kharagpur,91841.0,8,374.71,Groceries,Online,Gold,0.9,19
+CUST0396,53,Male,Delhi,39337.0,14,408.38,Home & Garden,Online,Basic,6.3,50
+CUST0397,62,Female,Mumbai,68324.0,3,160.01,Groceries,Mixed,Basic,6.7,28
+CUST0398,37,Female,Kharagpur,47497.0,16,755.12,Clothing,Online,Silver,3.9,74
+CUST0399,18,Male,Bengaluru,94876.0,13,332.49,Home & Garden,Mixed,Silver,9.6,54
+CUST0400,25,Male,Bengaluru,26920.0,20,551.64,Home & Garden,In-Store,Silver,8.8,75
+CUST0401,63,Female,Delhi,51027.0,17,536.09,Clothing,In-Store,Silver,7.1,65
+CUST0402,33,Female,Mumbai,74430.0,13,325.84,Clothing,In-Store,Gold,7.2,33
+CUST0403,31,Female,Bardhaman,104138.0,6,157.55,Electronics,In-Store,Silver,2.7,29
+CUST0404,29,Female,Bengaluru,63356.0,17,729.26,Sports,Online,Basic,6.6,82
+CUST0405,40,Female,Durgapur,51120.0,14,681.24,Home & Garden,Online,Gold,2.1,56
+CUST0406,32,Male,Durgapur,112029.0,17,526.82,Home & Garden,In-Store,Basic,1.6,65
+CUST0407,45,Female,Howrah,28800.0,8,166.59,Clothing,In-Store,Platinum,10.0,26
+CUST0408,51,Male,Mumbai,18000.0,11,206.34,Clothing,In-Store,Basic,6.3,41
+CUST0409,19,Female,Kharagpur,76000.0,20,926.52,Sports,Online,Platinum,4.4,85
+CUST0410,49,Male,Durgapur,52449.0,1,84.51,Clothing,In-Store,Basic,3.0,13
+CUST0411,40,Male,Delhi,39469.0,7,213.27,Groceries,Online,Basic,6.1,28
+CUST0412,39,Female,Kharagpur,82709.0,17,590.62,Groceries,Online,Basic,0.7,48
+CUST0413,42,Female,Mumbai,71095.0,10,304.83,Groceries,Online,Gold,1.1,42
+CUST0414,39,Male,Delhi,50898.0,11,382.59,Groceries,In-Store,Gold,0.5,52
+CUST0415,39,Male,Siliguri,32992.0,9,383.77,Sports,Mixed,Silver,5.1,30
+CUST0416,59,Male,Kolkata,86811.0,9,398.52,Home & Garden,Online,Platinum,6.1,43
+CUST0417,23,Male,Durgapur,81255.0,5,246.84,Groceries,In-Store,Silver,0.8,38
+CUST0418,32,Female,Durgapur,62521.0,17,498.19,Clothing,Online,Silver,7.3,66
+CUST0419,60,Male,Howrah,111166.0,9,411.23,Groceries,Online,Gold,2.5,49
+CUST0420,54,Male,Bardhaman,38248.0,17,635.4,Sports,Online,Basic,6.9,67
+CUST0421,50,Female,Howrah,26862.0,19,368.13,Clothing,Online,Basic,9.8,66
+CUST0422,25,Male,Mumbai,47702.0,7,280.33,Groceries,Online,Platinum,7.0,28
+CUST0423,61,Male,Howrah,63860.0,9,275.91,Home & Garden,Online,Platinum,8.9,32
+CUST0424,61,Male,Bardhaman,71083.0,7,320.92,Clothing,In-Store,Platinum,9.5,30
+CUST0425,22,Male,Bardhaman,66833.0,13,426.39,Clothing,In-Store,Platinum,5.0,39
+CUST0426,56,Female,Bengaluru,73801.0,11,573.67,Home & Garden,Online,Basic,7.1,49
+CUST0427,21,Female,Bengaluru,33712.0,14,281.69,Clothing,Online,Gold,8.5,60
+CUST0428,23,Female,Kolkata,101094.0,19,808.67,Groceries,Online,Silver,3.7,75
+CUST0429,62,Male,Delhi,62946.0,11,431.61,Clothing,Online,Platinum,2.8,38
+CUST0430,49,Female,Siliguri,92932.0,13,556.95,Groceries,Online,Silver,9.5,57
+CUST0431,47,Male,Bardhaman,73568.0,14,393.53,Home & Garden,Online,Silver,7.3,54
+CUST0432,64,Female,Siliguri,76419.0,13,476.9,Electronics,Mixed,Silver,2.4,56
+CUST0433,52,Male,Durgapur,79244.0,1,83.13,Home & Garden,In-Store,Basic,4.6,5
+CUST0434,57,Female,Asansol,76193.0,8,261.27,Groceries,Online,Basic,8.0,32
+CUST0435,33,Female,Kolkata,81068.0,12,323.12,Sports,Online,Gold,5.6,42
+CUST0436,30,Male,Mumbai,98229.0,19,686.64,Home & Garden,Online,Gold,6.6,68
+CUST0437,59,Female,Kharagpur,69913.0,12,331.61,Sports,In-Store,Basic,7.6,49
+CUST0438,47,Female,Siliguri,82725.0,8,283.98,Sports,Online,Gold,6.3,38
+CUST0439,36,Male,Howrah,62757.0,8,239.14,Groceries,Online,Silver,5.5,35
+CUST0440,34,Male,Bardhaman,101003.0,13,388.85,Groceries,In-Store,Silver,7.5,36
+CUST0441,36,Male,Siliguri,48090.0,12,496.74,Electronics,Online,Basic,7.3,53
+CUST0442,45,Male,Kharagpur,110024.0,16,609.02,Clothing,Online,Gold,6.4,59
+CUST0443,43,Male,Bardhaman,63996.0,1,86.17,Home & Garden,Online,Gold,3.7,17
+CUST0444,54,Female,Mumbai,29231.0,13,600.12,Groceries,Online,Silver,4.2,61
+CUST0445,43,Male,Asansol,68203.0,7,259.7,Home & Garden,Online,Silver,9.7,36
+CUST0446,40,Female,Howrah,47974.0,5,134.97,Sports,Online,Basic,1.3,19
+CUST0447,26,Female,Siliguri,86016.0,8,199.37,Clothing,Online,Silver,2.8,29
+CUST0448,29,Male,Bengaluru,48684.0,14,376.39,Electronics,Online,Basic,5.0,64
+CUST0449,18,Female,Kolkata,53845.0,13,602.96,Home & Garden,In-Store,Basic,8.4,66
+CUST0450,18,Female,Siliguri,18000.0,15,479.44,Clothing,Online,Silver,1.8,60
+CUST0451,64,Male,Siliguri,53692.0,17,455.21,Electronics,Online,Platinum,2.9,62
+CUST0452,51,Female,Kharagpur,18000.0,15,420.81,Home & Garden,In-Store,Silver,0.8,43
+CUST0453,49,Male,Kharagpur,25402.0,20,686.9,Clothing,In-Store,Basic,7.1,83
+CUST0454,65,Male,Kolkata,84010.0,18,683.3,Groceries,In-Store,Silver,2.5,74
+CUST0455,42,Male,Siliguri,84645.0,18,429.81,Home & Garden,Online,Gold,4.0,70
+CUST0456,57,Female,Delhi,75636.0,2,146.02,Clothing,Online,Gold,4.5,18
+CUST0457,62,Female,Mumbai,40826.0,4,158.47,Electronics,In-Store,Gold,8.9,27
+CUST0458,18,Female,Kharagpur,63807.0,1,86.02,Clothing,In-Store,Silver,4.2,9
+CUST0459,33,Female,Kharagpur,64910.0,4,242.61,Groceries,Online,Gold,1.6,12
+CUST0460,56,Male,Delhi,36041.0,18,331.61,Home & Garden,Mixed,Basic,5.3,45
+CUST0461,22,Female,Bardhaman,102585.0,5,311.28,Home & Garden,Online,Basic,9.6,19
+CUST0462,39,Male,Siliguri,86934.0,19,934.47,Home & Garden,Mixed,Basic,6.2,98
+CUST0463,46,Female,Kolkata,59476.0,15,575.21,Groceries,Mixed,Silver,9.8,77
+CUST0464,20,Female,Kharagpur,65672.0,8,348.18,Electronics,In-Store,Platinum,8.4,33
+CUST0465,29,Female,Kolkata,70210.0,20,553.86,Home & Garden,Mixed,Gold,0.6,64
+CUST0466,43,Female,Kolkata,18000.0,17,746.46,Electronics,In-Store,Basic,6.7,69
+CUST0467,33,Female,Mumbai,58821.0,1,71.05,Clothing,Online,Basic,3.0,14
+CUST0468,54,Male,Bengaluru,47950.0,12,477.26,Electronics,Online,Basic,5.7,46
+CUST0469,39,Female,Kharagpur,39959.0,19,841.78,Electronics,Online,Basic,2.9,88
+CUST0470,46,Female,Howrah,57972.0,15,725.4,Home & Garden,Online,Silver,3.6,70
+CUST0471,31,Female,Bardhaman,109942.0,9,462.09,Sports,In-Store,Platinum,9.2,48
+CUST0472,45,Female,Kolkata,81021.0,7,269.07,Sports,Online,Platinum,2.2,44
+CUST0473,22,Male,Kharagpur,50721.0,2,129.13,Groceries,Online,Silver,8.8,15
+CUST0474,64,Female,Bardhaman,79315.0,9,389.09,Groceries,In-Store,Gold,0.5,40
+CUST0475,47,Male,Howrah,99984.0,10,544.53,Sports,Mixed,Silver,1.1,63
+CUST0476,63,Female,Kharagpur,88116.0,2,159.5,Clothing,Online,Basic,8.6,14
+CUST0477,22,Male,Siliguri,66491.0,19,513.91,Home & Garden,Online,Silver,6.4,65
+CUST0478,29,Male,Kolkata,48827.0,11,339.12,Home & Garden,Online,Silver,7.5,48
+CUST0479,33,Male,Howrah,82456.0,13,463.51,Clothing,In-Store,Gold,2.3,57
+CUST0480,43,Male,Siliguri,74837.0,10,442.81,Clothing,Online,Basic,5.5,41
+CUST0481,43,Male,Kolkata,87380.0,14,423.07,Sports,In-Store,Basic,7.4,50
+CUST0482,65,Female,Durgapur,80879.0,18,658.4,Groceries,Online,Basic,6.3,72
+CUST0483,38,Male,Asansol,91239.0,19,529.14,Clothing,Online,Platinum,4.8,68
+CUST0484,56,Female,Delhi,51619.0,9,417.66,Groceries,Mixed,Silver,9.6,38
+CUST0485,53,Male,Kolkata,97935.0,7,303.15,Electronics,Online,Gold,6.8,24
+CUST0486,50,Male,Howrah,69940.0,3,112.88,Home & Garden,Online,Gold,9.1,16
+CUST0487,47,Female,Howrah,116882.0,20,539.87,Sports,Online,Basic,7.4,78
+CUST0488,54,Male,Asansol,47770.0,6,140.62,Home & Garden,Online,Silver,7.4,24
+CUST0489,40,Male,Kharagpur,108399.0,2,193.87,Sports,Online,Gold,1.0,12
+CUST0490,27,Male,Delhi,69948.0,6,170.99,Electronics,Online,Silver,3.7,21
+CUST0491,22,Male,Bardhaman,48715.0,3,83.81,Home & Garden,Online,Platinum,8.6,23
+CUST0492,53,Female,Kolkata,52903.0,16,748.5,Electronics,Online,Basic,2.5,72
+CUST0493,51,Male,Kharagpur,56991.0,8,386.95,Sports,In-Store,Basic,1.3,46
+CUST0494,48,Male,Siliguri,75604.0,2,138.76,Clothing,In-Store,Gold,3.4,3
+CUST0495,27,Female,Bardhaman,78071.0,17,852.51,Home & Garden,Online,Gold,2.4,83
+CUST0496,36,Female,Delhi,50657.0,9,189.88,Electronics,In-Store,Platinum,9.3,26
+CUST0497,49,Male,Kharagpur,64391.0,12,462.75,Home & Garden,Online,Silver,8.7,46
+CUST0498,18,Male,Bengaluru,118557.0,3,235.99,Home & Garden,Online,Platinum,5.1,14
+CUST0499,22,Female,Bardhaman,108189.0,11,424.68,Home & Garden,Online,Gold,0.8,42
+CUST0500,62,Male,Mumbai,75908.0,1,88.1,Groceries,Online,Gold,7.2,2
+CUST0501,21,Female,Mumbai,65950.0,13,449.38,Electronics,Online,Silver,6.3,62
+CUST0502,33,Male,Kolkata,68001.0,15,457.05,Electronics,Online,Basic,9.7,59
+CUST0503,41,Female,Kolkata,80338.0,5,267.8,Home & Garden,In-Store,Platinum,5.7,25
+CUST0504,33,Female,Kolkata,39430.0,17,369.82,Clothing,Mixed,Silver,3.5,57
+CUST0505,19,Female,Delhi,58566.0,6,186.98,Home & Garden,Online,Silver,5.3,30
+CUST0506,45,Male,Bengaluru,23285.0,11,248.39,Groceries,In-Store,Silver,9.8,42
+CUST0507,49,Male,Kharagpur,74981.0,18,491.55,Sports,In-Store,Silver,7.0,65
+CUST0508,44,Male,Siliguri,81180.0,4,191.94,Groceries,In-Store,Silver,6.8,5
+CUST0509,37,Male,Durgapur,52920.0,3,116.16,Clothing,Online,Basic,2.6,14
+CUST0510,41,Female,Howrah,104350.0,13,601.68,Home & Garden,Online,Gold,7.5,63
+CUST0511,29,Female,Siliguri,34356.0,9,235.75,Electronics,Online,Silver,7.6,26
+CUST0512,52,Female,Kharagpur,28391.0,6,139.53,Home & Garden,Online,Silver,3.3,19
+CUST0513,50,Male,Bengaluru,70611.0,12,486.68,Clothing,In-Store,Basic,4.9,55
+CUST0514,50,Male,Delhi,91177.0,2,112.79,Electronics,Online,Basic,3.1,1
+CUST0515,60,Male,Bardhaman,107098.0,3,220.26,Groceries,Online,Basic,2.7,11
+CUST0516,54,Female,Siliguri,53528.0,3,150.84,Sports,In-Store,Gold,0.5,17
+CUST0517,29,Male,Bardhaman,91967.0,12,336.76,Sports,In-Store,Basic,3.0,54
+CUST0518,20,Male,Durgapur,64037.0,15,276.54,Home & Garden,Online,Platinum,5.6,69
+CUST0519,18,Female,Kharagpur,60684.0,9,282.17,Groceries,In-Store,Basic,0.2,51
+CUST0520,50,Female,Bengaluru,87091.0,8,229.52,Clothing,Online,Basic,3.0,32
+CUST0521,57,Male,Kharagpur,81308.0,11,245.04,Sports,Online,Basic,8.8,35
+CUST0522,27,Female,Howrah,25590.0,16,380.23,Groceries,Online,Basic,6.0,65
+CUST0523,60,Male,Delhi,101914.0,4,162.31,Home & Garden,In-Store,Gold,6.2,13
+CUST0524,61,Female,Howrah,99502.0,1,83.78,Electronics,Mixed,Gold,4.2,1
+CUST0525,46,Female,Kharagpur,49361.0,7,289.89,Home & Garden,Online,Silver,6.8,28
+CUST0526,30,Female,Howrah,74895.0,2,113.22,Home & Garden,Online,Basic,2.1,6
+CUST0527,29,Male,Asansol,77351.0,5,179.04,Groceries,Online,Basic,8.2,24
+CUST0528,48,Male,Kharagpur,71517.0,7,222.38,Sports,Online,Silver,1.3,23
+CUST0529,63,Male,Bengaluru,51242.0,4,212.04,Groceries,Online,Platinum,6.6,20
+CUST0530,19,Female,Siliguri,48209.0,5,218.35,Electronics,Online,Basic,3.5,35
+CUST0531,52,Female,Bengaluru,64361.0,1,95.02,Groceries,In-Store,Gold,7.5,7
+CUST0532,40,Female,Asansol,94318.0,1,109.62,Clothing,In-Store,Silver,5.6,19
+CUST0533,34,Female,Siliguri,78590.0,15,599.08,Home & Garden,Online,Basic,4.6,73
+CUST0534,43,Male,Asansol,55735.0,20,651.74,Sports,Online,Silver,1.9,84
+CUST0535,25,Male,Siliguri,84292.0,19,568.63,Electronics,Online,Basic,6.4,71
+CUST0536,46,Male,Bengaluru,18000.0,10,300.55,Home & Garden,Online,Gold,9.8,47
+CUST0537,43,Female,Kharagpur,93719.0,18,619.58,Groceries,In-Store,Basic,8.3,70
+CUST0538,27,Female,Kolkata,21507.0,3,74.95,Clothing,Mixed,Gold,0.8,11
+CUST0539,43,Male,Mumbai,55939.0,11,327.52,Groceries,Online,Basic,3.9,45
+CUST0540,51,Female,Mumbai,37008.0,15,616.53,Home & Garden,Online,Platinum,9.3,64
+CUST0541,58,Male,Asansol,32633.0,11,500.82,Electronics,In-Store,Basic,5.1,43
+CUST0542,24,Female,Mumbai,94021.0,17,511.91,Sports,Online,Gold,6.7,54
+CUST0543,21,Female,Bengaluru,53307.0,17,452.98,Home & Garden,In-Store,Gold,9.1,71
+CUST0544,62,Male,Bardhaman,73663.0,6,164.47,Electronics,Online,Platinum,8.8,27
+CUST0545,28,Male,Asansol,63827.0,5,225.44,Home & Garden,In-Store,Silver,5.1,8
+CUST0546,46,Female,Siliguri,76926.0,8,289.62,Clothing,Online,Gold,4.5,27
+CUST0547,53,Male,Delhi,66921.0,2,141.76,Groceries,In-Store,Basic,3.5,12
+CUST0548,42,Male,Howrah,32925.0,16,433.32,Sports,In-Store,Basic,7.2,64
+CUST0549,38,Female,Bengaluru,89907.0,20,638.23,Electronics,Online,Silver,3.0,67
+CUST0550,53,Female,Siliguri,52656.0,12,438.27,Sports,In-Store,Basic,2.6,49
+CUST0551,27,Female,Bardhaman,26085.0,6,259.71,Sports,In-Store,Platinum,3.7,30
+CUST0552,54,Male,Delhi,54297.0,1,60.12,Sports,Online,Basic,1.9,2
+CUST0553,26,Female,Mumbai,102519.0,4,169.95,Electronics,Online,Silver,7.0,19
+CUST0554,41,Female,Bardhaman,86256.0,17,809.05,Electronics,Online,Silver,6.2,73
+CUST0555,52,Female,Asansol,56284.0,13,251.76,Sports,Online,Silver,4.9,52
+CUST0556,52,Female,Durgapur,56269.0,18,799.45,Groceries,Online,Silver,4.0,73
+CUST0557,65,Female,Durgapur,56959.0,5,149.26,Home & Garden,In-Store,Basic,9.1,10
+CUST0558,53,Male,Mumbai,116919.0,3,219.89,Sports,Online,Silver,0.5,17
+CUST0559,35,Female,Durgapur,74548.0,11,425.77,Clothing,Mixed,Basic,7.7,35
+CUST0560,56,Female,Durgapur,75751.0,13,404.69,Sports,Online,Platinum,9.0,34
+CUST0561,49,Male,Siliguri,90757.0,4,261.87,Electronics,Online,Gold,4.6,29
+CUST0562,41,Female,Siliguri,70970.0,14,251.68,Home & Garden,Online,Platinum,5.6,40
+CUST0563,40,Female,Howrah,58524.0,11,278.17,Clothing,Online,Basic,9.5,30
+CUST0564,49,Male,Kharagpur,60091.0,10,382.26,Home & Garden,Online,Basic,2.3,35
+CUST0565,54,Female,Mumbai,63210.0,19,535.31,Home & Garden,Online,Basic,5.3,65
+CUST0566,29,Male,Durgapur,64069.0,18,663.47,Clothing,Online,Basic,4.9,73
+CUST0567,30,Female,Howrah,83191.0,6,157.58,Sports,In-Store,Basic,2.7,14
+CUST0568,40,Male,Mumbai,66299.0,15,329.99,Sports,In-Store,Silver,8.2,57
+CUST0569,42,Male,Durgapur,83316.0,10,239.7,Sports,Online,Basic,9.0,42
+CUST0570,52,Female,Bengaluru,62982.0,5,147.08,Groceries,In-Store,Silver,7.9,9
+CUST0571,58,Male,Kolkata,66966.0,5,207.79,Sports,In-Store,Gold,2.1,17
+CUST0572,47,Male,Bengaluru,18000.0,10,390.49,Clothing,Online,Gold,1.1,38
+CUST0573,34,Female,Delhi,87908.0,5,305.84,Groceries,Mixed,Basic,6.1,24
+CUST0574,37,Female,Mumbai,73662.0,3,204.12,Sports,In-Store,Basic,0.8,24
+CUST0575,65,Male,Kharagpur,89950.0,6,206.96,Groceries,Online,Silver,6.8,33
+CUST0576,42,Female,Delhi,18000.0,4,132.17,Clothing,Online,Basic,5.4,36
+CUST0577,39,Male,Howrah,117209.0,18,463.27,Sports,Online,Silver,6.7,49
+CUST0578,30,Male,Howrah,61510.0,9,256.31,Electronics,Online,Basic,6.0,27
+CUST0579,36,Female,Durgapur,92705.0,17,607.72,Clothing,In-Store,Gold,4.3,84
+CUST0580,53,Female,Delhi,39002.0,13,252.36,Home & Garden,Online,Gold,2.2,31
+CUST0581,29,Male,Durgapur,80319.0,15,398.79,Home & Garden,In-Store,Silver,3.2,70
+CUST0582,58,Female,Mumbai,38665.0,20,885.93,Clothing,In-Store,Basic,5.3,89
+CUST0583,36,Female,Howrah,49406.0,17,539.65,Home & Garden,In-Store,Basic,6.6,68
+CUST0584,29,Male,Kolkata,112851.0,13,498.04,Clothing,In-Store,Gold,7.8,44
+CUST0585,26,Male,Howrah,60233.0,16,316.35,Electronics,Online,Silver,7.7,52
+CUST0586,24,Male,Siliguri,70436.0,4,163.17,Clothing,Online,Basic,9.7,31
+CUST0587,45,Male,Bardhaman,86752.0,5,296.84,Sports,In-Store,Basic,3.0,24
+CUST0588,31,Male,Kharagpur,77392.0,5,170.77,Sports,Online,Basic,0.9,17
+CUST0589,48,Male,Delhi,68760.0,9,311.62,Groceries,Online,Gold,3.6,40
+CUST0590,36,Female,Durgapur,74124.0,17,306.8,Home & Garden,Mixed,Basic,7.5,57
+CUST0591,64,Male,Bardhaman,125085.0,13,485.73,Home & Garden,In-Store,Silver,4.5,57
+CUST0592,33,Female,Bardhaman,63560.0,2,84.53,Clothing,Online,Silver,8.2,2
+CUST0593,22,Female,Bengaluru,70027.0,13,600.0,Home & Garden,In-Store,Silver,5.6,57
+CUST0594,52,Male,Asansol,91266.0,19,830.31,Sports,In-Store,Gold,9.3,78
+CUST0595,29,Female,Bengaluru,92638.0,3,200.38,Electronics,Online,Gold,9.5,1
+CUST0596,42,Male,Bengaluru,94676.0,10,320.21,Clothing,Online,Silver,0.9,43
+CUST0597,38,Female,Kharagpur,80968.0,2,159.39,Home & Garden,Mixed,Basic,4.7,2
+CUST0598,53,Male,Siliguri,36425.0,13,445.42,Sports,Online,Silver,6.2,51
+CUST0599,40,Male,Howrah,105836.0,19,568.85,Groceries,Online,Silver,2.7,81
+CUST0600,33,Male,Bengaluru,36341.0,17,606.5,Home & Garden,Online,Silver,4.2,57
+CUST0601,56,Male,Mumbai,72566.0,14,296.42,Electronics,In-Store,Silver,6.8,54
+CUST0602,62,Female,Howrah,46143.0,12,270.56,Electronics,Online,Basic,2.4,41
+CUST0603,59,Female,Siliguri,63397.0,12,492.16,Home & Garden,Online,Silver,6.1,44
+CUST0604,56,Female,Durgapur,73219.0,11,318.14,Home & Garden,Online,Basic,7.0,58
+CUST0605,31,Female,Asansol,73034.0,7,312.22,Sports,Mixed,Gold,1.1,31
+CUST0606,48,Female,Howrah,75548.0,4,147.56,Home & Garden,Online,Basic,5.1,12
+CUST0607,22,Male,Delhi,105343.0,19,886.28,Groceries,In-Store,Gold,2.8,79
+CUST0608,52,Male,Kharagpur,76338.0,1,128.78,Sports,Mixed,Basic,7.3,15
+CUST0609,40,Male,Bardhaman,58896.0,3,174.36,Clothing,Online,Silver,2.1,10
+CUST0610,46,Male,Durgapur,89102.0,13,410.8,Groceries,Mixed,Gold,8.9,57
+CUST0611,60,Male,Siliguri,94737.0,15,415.64,Sports,Mixed,Basic,4.4,57
+CUST0612,28,Female,Bengaluru,34310.0,2,95.53,Sports,Mixed,Gold,2.1,18
+CUST0613,35,Male,Mumbai,79935.0,11,252.22,Electronics,Online,Silver,4.5,31
+CUST0614,64,Male,Mumbai,82529.0,4,113.68,Sports,In-Store,Silver,4.2,8
+CUST0615,29,Female,Asansol,57561.0,19,638.53,Groceries,In-Store,Basic,4.4,74
+CUST0616,26,Female,Siliguri,99393.0,17,604.71,Home & Garden,Mixed,Silver,5.9,68
+CUST0617,27,Male,Durgapur,61249.0,3,177.26,Groceries,Online,Silver,5.3,12
+CUST0618,61,Male,Delhi,68139.0,18,434.28,Clothing,In-Store,Silver,1.7,87
+CUST0619,34,Female,Bardhaman,60673.0,8,252.71,Sports,Online,Gold,0.8,48
+CUST0620,55,Male,Bengaluru,65389.0,19,422.84,Sports,Online,Silver,7.3,70
+CUST0621,24,Male,Kharagpur,37593.0,5,249.19,Sports,Online,Basic,5.7,26
+CUST0622,63,Male,Kolkata,28999.0,7,301.5,Sports,In-Store,Basic,3.7,29
+CUST0623,30,Female,Kolkata,104863.0,8,431.43,Electronics,Online,Basic,8.1,30
+CUST0624,57,Male,Bengaluru,43826.0,5,246.43,Electronics,Online,Basic,4.0,21
+CUST0625,59,Male,Durgapur,40215.0,17,548.87,Home & Garden,Mixed,Gold,8.0,73
+CUST0626,26,Female,Bengaluru,18000.0,5,158.62,Sports,Online,Gold,3.2,30
+CUST0627,44,Female,Siliguri,49026.0,4,151.23,Clothing,In-Store,Basic,0.9,25
+CUST0628,19,Female,Kolkata,31923.0,19,647.26,Home & Garden,Online,Platinum,9.3,64
+CUST0629,22,Male,Asansol,106050.0,2,163.32,Sports,Online,Silver,4.1,9
+CUST0630,46,Female,Siliguri,90245.0,11,365.52,Electronics,In-Store,Platinum,8.0,32
+CUST0631,54,Male,Kolkata,47796.0,13,611.11,Clothing,Mixed,Gold,2.9,68
+CUST0632,55,Female,Delhi,121311.0,15,802.41,Home & Garden,Online,Gold,6.5,68
+CUST0633,36,Male,Bardhaman,89544.0,12,558.98,Clothing,In-Store,Basic,8.8,53
+CUST0634,25,Female,Mumbai,56879.0,11,484.43,Sports,Online,Basic,0.6,52
+CUST0635,65,Male,Siliguri,18000.0,7,268.08,Groceries,Online,Basic,8.3,51
+CUST0636,62,Male,Mumbai,122274.0,5,243.87,Clothing,Online,Gold,5.8,25
+CUST0637,18,Female,Mumbai,30261.0,17,321.46,Clothing,Online,Basic,6.2,57
+CUST0638,39,Female,Kolkata,23865.0,20,740.71,Electronics,Online,Gold,5.3,73
+CUST0639,34,Male,Siliguri,90564.0,9,422.85,Sports,Online,Basic,8.8,52
+CUST0640,24,Female,Bardhaman,125994.0,14,293.27,Clothing,Online,Gold,0.6,48
+CUST0641,42,Male,Delhi,99607.0,12,598.7,Sports,Online,Basic,2.8,68
+CUST0642,62,Female,Howrah,79098.0,6,179.84,Electronics,Online,Basic,8.8,32
+CUST0643,21,Female,Asansol,79869.0,17,458.96,Sports,In-Store,Basic,7.6,60
+CUST0644,53,Male,Mumbai,86335.0,19,732.03,Electronics,Mixed,Silver,0.4,68
+CUST0645,23,Female,Bardhaman,83973.0,19,484.35,Electronics,In-Store,Basic,5.3,72
+CUST0646,48,Female,Kharagpur,72030.0,16,350.79,Home & Garden,Online,Gold,5.4,52
+CUST0647,36,Male,Kharagpur,67605.0,12,376.07,Sports,Mixed,Basic,4.1,47
+CUST0648,61,Male,Howrah,63435.0,12,506.78,Groceries,In-Store,Basic,3.1,60
+CUST0649,56,Female,Howrah,46151.0,20,571.76,Home & Garden,Online,Gold,6.9,63
+CUST0650,44,Male,Howrah,57983.0,6,240.02,Electronics,Online,Basic,2.2,28
+CUST0651,27,Female,Asansol,22676.0,4,146.2,Groceries,In-Store,Platinum,8.0,23
+CUST0652,43,Female,Asansol,62542.0,6,126.01,Clothing,In-Store,Platinum,8.1,28
+CUST0653,36,Male,Delhi,40285.0,11,511.88,Clothing,In-Store,Basic,4.3,38
+CUST0654,56,Male,Mumbai,37410.0,1,60.67,Home & Garden,In-Store,Basic,3.0,8
+CUST0655,20,Male,Durgapur,69497.0,15,732.07,Groceries,In-Store,Basic,3.0,78
+CUST0656,62,Male,Kharagpur,99800.0,11,419.48,Sports,Mixed,Gold,4.9,49
+CUST0657,30,Male,Kolkata,87958.0,19,886.73,Groceries,Online,Silver,7.3,84
+CUST0658,45,Male,Kolkata,25737.0,18,354.71,Home & Garden,Online,Silver,3.7,72
+CUST0659,37,Female,Howrah,40259.0,17,525.4,Sports,In-Store,Gold,6.2,61
+CUST0660,45,Female,Bengaluru,88519.0,19,488.18,Sports,Online,Basic,3.9,58
+CUST0661,25,Male,Kharagpur,40438.0,14,264.21,Clothing,In-Store,Gold,3.2,47
+CUST0662,58,Female,Durgapur,59384.0,18,651.08,Groceries,Mixed,Gold,0.4,78
+CUST0663,56,Female,Durgapur,78751.0,19,465.88,Sports,In-Store,Silver,0.2,78
+CUST0664,18,Female,Kolkata,40791.0,15,511.98,Home & Garden,In-Store,Gold,2.4,64
+CUST0665,20,Female,Bengaluru,67634.0,15,341.76,Clothing,Online,Gold,4.2,61
+CUST0666,30,Male,Durgapur,31649.0,4,133.06,Sports,Online,Basic,8.5,24
+CUST0667,45,Female,Kharagpur,49966.0,7,319.46,Groceries,Online,Silver,8.0,28
+CUST0668,42,Female,Mumbai,72995.0,13,409.53,Clothing,In-Store,Silver,2.8,50
+CUST0669,50,Male,Bardhaman,25175.0,3,125.01,Groceries,In-Store,Basic,2.6,23
+CUST0670,55,Male,Bengaluru,76012.0,16,621.25,Groceries,In-Store,Platinum,2.4,57
+CUST0671,23,Male,Durgapur,64509.0,9,437.08,Groceries,Online,Basic,3.5,44
+CUST0672,61,Male,Bengaluru,78812.0,8,259.8,Clothing,Online,Gold,5.1,26
+CUST0673,62,Female,Bengaluru,70598.0,20,767.35,Sports,In-Store,Silver,4.5,92
+CUST0674,49,Male,Mumbai,99104.0,13,665.56,Electronics,Online,Basic,2.3,60
+CUST0675,62,Female,Kharagpur,68131.0,17,693.84,Sports,Online,Platinum,1.5,73
+CUST0676,64,Female,Kolkata,54265.0,17,551.07,Clothing,In-Store,Gold,0.3,81
+CUST0677,38,Male,Mumbai,68057.0,17,633.31,Electronics,In-Store,Silver,1.7,62
+CUST0678,33,Male,Durgapur,78582.0,1,105.6,Electronics,Online,Basic,7.1,8
+CUST0679,38,Male,Howrah,66222.0,8,342.82,Electronics,Mixed,Basic,2.6,33
+CUST0680,28,Male,Mumbai,66015.0,19,350.35,Home & Garden,Online,Basic,4.8,70
+CUST0681,54,Male,Howrah,47450.0,6,182.23,Clothing,Mixed,Basic,6.0,39
+CUST0682,53,Male,Siliguri,48427.0,3,160.46,Home & Garden,Online,Silver,8.9,9
+CUST0683,52,Female,Kolkata,29935.0,5,152.18,Electronics,Online,Platinum,8.9,10
+CUST0684,36,Female,Kharagpur,108739.0,13,602.6,Home & Garden,Mixed,Silver,7.5,52
+CUST0685,37,Female,Bardhaman,33903.0,15,418.62,Home & Garden,Online,Gold,0.5,55
+CUST0686,35,Female,Bengaluru,47677.0,14,483.91,Clothing,In-Store,Silver,5.8,57
+CUST0687,64,Male,Howrah,47040.0,16,300.03,Groceries,In-Store,Silver,7.9,56
+CUST0688,58,Male,Bardhaman,87373.0,18,472.17,Home & Garden,Mixed,Gold,0.4,81
+CUST0689,31,Female,Bardhaman,57626.0,11,536.99,Home & Garden,Mixed,Silver,5.6,63
+CUST0690,32,Female,Howrah,96194.0,3,177.13,Electronics,Online,Gold,8.6,25
+CUST0691,48,Female,Siliguri,48163.0,10,393.04,Electronics,In-Store,Basic,4.8,62
+CUST0692,18,Male,Bengaluru,71975.0,10,376.47,Electronics,Online,Basic,0.2,48
+CUST0693,20,Male,Delhi,44116.0,16,588.73,Sports,Online,Gold,0.3,75
+CUST0694,33,Male,Siliguri,118629.0,12,511.37,Home & Garden,In-Store,Silver,4.3,58
+CUST0695,40,Female,Howrah,35310.0,2,101.57,Electronics,Online,Gold,1.7,14
+CUST0696,28,Female,Bengaluru,72746.0,9,231.56,Clothing,In-Store,Platinum,6.7,36
+CUST0697,29,Male,Kolkata,80844.0,3,167.47,Sports,Online,Basic,7.1,11
+CUST0698,27,Male,Howrah,75345.0,15,620.22,Groceries,In-Store,Silver,1.9,54
+CUST0699,49,Female,Bengaluru,60368.0,3,166.57,Home & Garden,Mixed,Basic,8.9,13
+CUST0700,33,Female,Bengaluru,61754.0,19,349.04,Home & Garden,Online,Silver,4.5,70
+CUST0701,25,Male,Mumbai,66095.0,18,719.79,Clothing,In-Store,Gold,1.6,77
+CUST0702,55,Female,Delhi,61325.0,8,331.53,Groceries,Mixed,Basic,7.7,26
+CUST0703,29,Male,Howrah,89097.0,17,524.96,Groceries,Online,Silver,7.9,65
+CUST0704,41,Male,Kharagpur,120263.0,8,331.61,Sports,Online,Gold,6.5,30
+CUST0705,45,Female,Bengaluru,51063.0,7,217.4,Home & Garden,In-Store,Basic,8.6,27
+CUST0706,25,Female,Siliguri,30755.0,7,198.75,Electronics,Online,Gold,7.4,31
+CUST0707,45,Female,Mumbai,62793.0,3,125.01,Clothing,Online,Silver,8.8,19
+CUST0708,53,Male,Bengaluru,129493.0,1,145.85,Clothing,In-Store,Platinum,4.5,4
+CUST0709,43,Female,Howrah,44908.0,4,189.64,Clothing,Online,Basic,7.5,26
+CUST0710,25,Female,Durgapur,105978.0,5,288.69,Clothing,Mixed,Basic,10.0,34
+CUST0711,45,Male,Bengaluru,106943.0,1,147.89,Electronics,In-Store,Silver,7.3,11
+CUST0712,45,Male,Asansol,51160.0,15,444.6,Electronics,In-Store,Basic,1.3,63
+CUST0713,54,Female,Durgapur,79225.0,5,203.57,Sports,Online,Platinum,5.3,29
+CUST0714,58,Male,Bengaluru,105710.0,13,550.0,Home & Garden,Online,Basic,6.0,47
+CUST0715,53,Male,Bardhaman,55522.0,8,230.2,Electronics,Online,Gold,1.9,39
+CUST0716,44,Male,Bengaluru,59910.0,8,254.43,Sports,Mixed,Silver,9.6,25
+CUST0717,34,Female,Kolkata,50458.0,5,136.89,Groceries,Online,Basic,1.9,13
+CUST0718,26,Female,Bardhaman,39631.0,9,195.5,Home & Garden,Online,Basic,1.9,34
+CUST0719,50,Male,Howrah,48768.0,1,67.68,Electronics,Online,Silver,9.2,1
+CUST0720,37,Male,Siliguri,34401.0,4,123.07,Groceries,Online,Silver,4.8,17
+CUST0721,30,Male,Durgapur,65852.0,3,155.2,Sports,Online,Basic,0.8,22
+CUST0722,45,Female,Kharagpur,45751.0,2,57.76,Electronics,In-Store,Platinum,6.1,1
+CUST0723,65,Male,Mumbai,70845.0,8,335.53,Electronics,Online,Basic,6.1,43
+CUST0724,46,Male,Siliguri,26103.0,9,255.23,Groceries,Online,Silver,0.8,29
+CUST0725,30,Female,Bardhaman,73272.0,2,145.19,Electronics,Online,Silver,9.7,13
+CUST0726,63,Male,Mumbai,85838.0,14,441.98,Clothing,In-Store,Basic,5.5,50
+CUST0727,52,Female,Durgapur,18000.0,14,310.54,Electronics,In-Store,Platinum,5.7,55
+CUST0728,23,Female,Kharagpur,74351.0,4,192.03,Home & Garden,Online,Basic,5.3,26
+CUST0729,35,Female,Asansol,95692.0,6,197.33,Groceries,In-Store,Basic,6.2,29
+CUST0730,22,Male,Asansol,34759.0,11,353.21,Home & Garden,Online,Basic,2.8,43
+CUST0731,64,Male,Kharagpur,106814.0,3,181.72,Sports,Mixed,Silver,3.0,11
+CUST0732,42,Female,Mumbai,75475.0,8,397.86,Home & Garden,Online,Silver,5.2,36
+CUST0733,19,Male,Howrah,47375.0,3,102.6,Clothing,In-Store,Gold,8.1,17
+CUST0734,27,Female,Mumbai,63606.0,14,575.49,Clothing,Mixed,Basic,0.7,65
+CUST0735,47,Male,Bengaluru,78958.0,13,313.17,Home & Garden,In-Store,Basic,6.1,52
+CUST0736,62,Female,Mumbai,66900.0,13,362.94,Sports,Online,Gold,8.1,39
+CUST0737,22,Female,Howrah,78469.0,2,106.89,Electronics,Online,Basic,1.7,9
+CUST0738,50,Male,Siliguri,41983.0,13,591.88,Clothing,In-Store,Gold,0.3,53
+CUST0739,18,Male,Durgapur,69234.0,19,489.2,Home & Garden,Online,Basic,3.3,76
+CUST0740,35,Male,Mumbai,29657.0,6,135.03,Home & Garden,In-Store,Gold,6.0,15
+CUST0741,49,Male,Durgapur,62219.0,16,467.98,Home & Garden,In-Store,Basic,1.6,65
+CUST0742,64,Female,Bardhaman,42402.0,2,82.16,Electronics,In-Store,Silver,4.4,6
+CUST0743,28,Female,Asansol,46612.0,8,178.64,Groceries,Online,Basic,5.6,14
+CUST0744,38,Male,Asansol,95902.0,17,620.61,Sports,In-Store,Basic,6.1,77
+CUST0745,43,Male,Howrah,92283.0,2,109.93,Groceries,In-Store,Basic,2.9,9
+CUST0746,42,Female,Bardhaman,80228.0,10,223.22,Sports,In-Store,Basic,4.1,46
+CUST0747,39,Male,Asansol,37692.0,16,620.69,Sports,Online,Basic,7.8,54
+CUST0748,44,Male,Howrah,57090.0,6,221.83,Home & Garden,Online,Silver,9.4,22
+CUST0749,30,Male,Mumbai,95327.0,2,107.07,Clothing,Online,Silver,8.6,8
+CUST0750,50,Male,Bardhaman,68543.0,2,107.86,Home & Garden,Online,Gold,5.7,12
+CUST0751,51,Female,Bengaluru,122983.0,13,579.72,Electronics,In-Store,Silver,4.2,47
+CUST0752,58,Female,Bengaluru,74833.0,15,409.77,Sports,Mixed,Silver,3.5,61
+CUST0753,52,Male,Bengaluru,69801.0,2,103.37,Clothing,Online,Silver,1.4,25
+CUST0754,18,Female,Siliguri,57272.0,7,179.59,Sports,In-Store,Silver,1.2,30
+CUST0755,38,Male,Bengaluru,68339.0,3,134.93,Sports,Online,Silver,6.9,14
+CUST0756,65,Male,Bardhaman,61188.0,8,269.7,Home & Garden,Online,Gold,2.7,21
+CUST0757,23,Male,Kolkata,82703.0,14,519.32,Clothing,Online,Basic,2.7,52
+CUST0758,45,Female,Asansol,88918.0,7,348.46,Clothing,Online,Basic,10.0,32
+CUST0759,34,Female,Bengaluru,45350.0,7,274.14,Sports,Mixed,Silver,2.0,25
+CUST0760,22,Female,Bardhaman,31719.0,1,63.17,Clothing,Online,Basic,1.7,13
+CUST0761,48,Female,Delhi,19095.0,17,397.35,Clothing,In-Store,Gold,1.2,66
+CUST0762,22,Female,Mumbai,77700.0,9,268.92,Home & Garden,Online,Gold,5.9,56
+CUST0763,55,Male,Siliguri,37416.0,13,278.15,Groceries,Mixed,Basic,6.4,38
+CUST0764,20,Male,Durgapur,18000.0,19,399.37,Electronics,Online,Basic,3.8,67
+CUST0765,40,Female,Howrah,74714.0,19,784.67,Groceries,Online,Silver,5.4,70
+CUST0766,54,Female,Delhi,127325.0,17,575.09,Clothing,Online,Silver,7.9,50
+CUST0767,54,Female,Delhi,64848.0,10,323.91,Sports,Online,Basic,8.2,45
+CUST0768,27,Male,Siliguri,85962.0,10,372.52,Electronics,Online,Gold,9.6,45
+CUST0769,27,Female,Howrah,67046.0,4,205.85,Electronics,Mixed,Silver,8.3,12
+CUST0770,36,Male,Siliguri,62528.0,8,184.58,Sports,In-Store,Basic,5.7,30
+CUST0771,34,Male,Bengaluru,87977.0,20,866.25,Electronics,In-Store,Basic,2.0,82
+CUST0772,38,Female,Durgapur,57743.0,20,448.37,Sports,Online,Gold,1.2,68
+CUST0773,31,Male,Howrah,71685.0,18,748.74,Electronics,Online,Basic,0.7,75
+CUST0774,26,Male,Bardhaman,73042.0,14,580.36,Groceries,Online,Gold,6.7,53
+CUST0775,63,Female,Asansol,48298.0,18,712.73,Electronics,Mixed,Silver,8.1,70
+CUST0776,18,Male,Siliguri,89801.0,14,550.39,Home & Garden,In-Store,Silver,5.2,53
+CUST0777,62,Female,Siliguri,60626.0,20,342.56,Sports,Mixed,Gold,0.7,71
+CUST0778,30,Male,Mumbai,46106.0,15,444.34,Electronics,In-Store,Gold,5.4,36
+CUST0779,21,Female,Kolkata,78413.0,4,187.75,Sports,Online,Basic,9.4,16
+CUST0780,18,Female,Mumbai,42538.0,13,370.52,Home & Garden,Online,Basic,6.1,41
+CUST0781,57,Male,Kolkata,65705.0,8,400.96,Electronics,Online,Gold,8.1,28
+CUST0782,49,Female,Kharagpur,64772.0,18,503.47,Electronics,Online,Silver,8.0,64
+CUST0783,51,Male,Bardhaman,92147.0,12,374.4,Home & Garden,Online,Basic,9.3,47
+CUST0784,45,Male,Kharagpur,76867.0,14,369.14,Home & Garden,Online,Platinum,7.7,50
+CUST0785,48,Female,Siliguri,64374.0,2,105.26,Home & Garden,In-Store,Basic,7.5,1
+CUST0786,25,Male,Siliguri,85444.0,18,663.74,Sports,Mixed,Basic,2.5,80
+CUST0787,56,Female,Kolkata,99755.0,2,145.01,Home & Garden,In-Store,Basic,0.8,4
+CUST0788,43,Male,Howrah,78945.0,11,441.57,Sports,Mixed,Silver,5.3,41
+CUST0789,51,Male,Durgapur,65259.0,9,385.87,Groceries,Online,Silver,1.4,41
+CUST0790,20,Female,Bengaluru,32204.0,12,519.24,Electronics,Online,Basic,9.6,55
+CUST0791,29,Male,Delhi,38372.0,17,715.58,Electronics,In-Store,Basic,3.0,68
+CUST0792,18,Male,Siliguri,57369.0,15,281.22,Clothing,Online,Basic,8.6,28
+CUST0793,61,Male,Kharagpur,49762.0,17,691.93,Groceries,Online,Gold,4.0,65
+CUST0794,22,Male,Kharagpur,60326.0,18,430.6,Home & Garden,Online,Basic,3.4,67
+CUST0795,47,Male,Mumbai,66416.0,6,182.76,Home & Garden,Online,Platinum,9.4,29
+CUST0796,47,Male,Bardhaman,78242.0,17,636.29,Groceries,Online,Basic,3.8,70
+CUST0797,34,Male,Kolkata,63238.0,18,491.54,Home & Garden,Online,Platinum,4.0,64
+CUST0798,65,Male,Delhi,77163.0,8,183.33,Clothing,Online,Basic,1.2,47
+CUST0799,64,Female,Kolkata,66612.0,9,222.8,Sports,In-Store,Gold,6.8,30
+CUST0800,40,Male,Siliguri,18000.0,6,106.56,Electronics,Online,Basic,3.0,25
+CUST0801,32,Male,Asansol,41517.0,5,262.12,Groceries,Online,Basic,5.9,13
+CUST0802,54,Female,Delhi,61398.0,12,250.15,Electronics,Online,Gold,6.0,34
+CUST0803,38,Female,Mumbai,34758.0,11,256.69,Sports,Online,Gold,7.2,45
+CUST0804,31,Female,Kharagpur,79998.0,1,70.18,Groceries,In-Store,Silver,7.5,14
+CUST0805,19,Male,Mumbai,103269.0,11,344.09,Sports,In-Store,Gold,5.2,40
+CUST0806,28,Female,Siliguri,95469.0,19,892.7,Home & Garden,In-Store,Silver,3.4,71
+CUST0807,56,Female,Asansol,59664.0,9,209.95,Home & Garden,Online,Gold,8.4,31
+CUST0808,55,Male,Bengaluru,102268.0,2,184.0,Home & Garden,In-Store,Basic,3.2,14
+CUST0809,51,Male,Delhi,68717.0,12,460.15,Sports,In-Store,Silver,5.2,51
+CUST0810,55,Female,Kolkata,56573.0,4,222.27,Sports,Online,Silver,4.1,15
+CUST0811,51,Female,Delhi,49665.0,4,176.82,Sports,Online,Basic,8.6,16
+CUST0812,35,Male,Kharagpur,57438.0,18,761.01,Electronics,Online,Gold,4.4,72
+CUST0813,47,Male,Kolkata,55296.0,15,313.53,Sports,In-Store,Basic,4.0,44
+CUST0814,32,Male,Bengaluru,69260.0,19,575.3,Home & Garden,In-Store,Basic,7.0,80
+CUST0815,44,Male,Bengaluru,69014.0,13,409.41,Clothing,Online,Silver,6.1,52
+CUST0816,51,Male,Bardhaman,65076.0,19,828.43,Sports,In-Store,Silver,1.3,82
+CUST0817,55,Female,Kolkata,75923.0,17,415.7,Clothing,Online,Basic,5.2,58
+CUST0818,50,Male,Durgapur,94766.0,6,173.48,Home & Garden,Online,Basic,7.4,21
+CUST0819,41,Male,Asansol,88739.0,16,488.57,Sports,Mixed,Platinum,9.9,63
+CUST0820,32,Male,Durgapur,27878.0,12,222.25,Electronics,Mixed,Basic,6.4,55
+CUST0821,47,Male,Bengaluru,66833.0,19,404.94,Electronics,Online,Silver,3.8,73
+CUST0822,59,Male,Kolkata,88358.0,5,323.82,Clothing,Online,Gold,2.4,20
+CUST0823,34,Female,Bardhaman,30828.0,17,509.36,Electronics,Online,Silver,8.8,60
+CUST0824,22,Male,Delhi,59381.0,1,100.07,Electronics,Online,Platinum,8.2,1
+CUST0825,46,Female,Delhi,35747.0,10,399.38,Electronics,In-Store,Gold,2.5,41
+CUST0826,21,Male,Delhi,19950.0,15,411.12,Home & Garden,Mixed,Silver,2.2,50
+CUST0827,27,Female,Bardhaman,78537.0,11,283.06,Electronics,In-Store,Silver,7.2,45
+CUST0828,34,Female,Siliguri,83979.0,13,372.33,Groceries,Online,Gold,3.3,28
+CUST0829,27,Male,Kolkata,50587.0,5,162.56,Sports,In-Store,Silver,3.2,24
+CUST0830,34,Male,Durgapur,18000.0,1,56.18,Electronics,Online,Gold,1.7,7
+CUST0831,37,Male,Asansol,51344.0,12,384.95,Electronics,Mixed,Basic,2.8,57
+CUST0832,41,Male,Bengaluru,74795.0,11,246.25,Electronics,Mixed,Basic,4.4,46
+CUST0833,22,Male,Asansol,28027.0,17,541.82,Groceries,In-Store,Basic,7.4,61
+CUST0834,51,Female,Bengaluru,69584.0,4,212.24,Electronics,Online,Basic,3.5,25
+CUST0835,23,Male,Kolkata,64617.0,15,664.16,Electronics,Online,Basic,3.4,65
+CUST0836,19,Male,Kolkata,79482.0,9,407.4,Sports,Online,Gold,3.0,24
+CUST0837,30,Female,Mumbai,67990.0,20,854.59,Groceries,In-Store,Silver,4.9,88
+CUST0838,60,Male,Durgapur,40673.0,19,504.83,Groceries,Online,Silver,2.0,66
+CUST0839,60,Female,Kharagpur,94914.0,19,797.56,Electronics,Online,Silver,5.0,82
+CUST0840,65,Male,Bengaluru,61037.0,12,303.4,Groceries,Online,Gold,7.1,57
+CUST0841,28,Female,Howrah,64317.0,5,234.94,Clothing,In-Store,Silver,0.5,24
+CUST0842,64,Male,Kharagpur,41668.0,10,381.32,Groceries,Online,Gold,0.3,34
+CUST0843,40,Female,Delhi,53918.0,17,317.6,Groceries,Mixed,Basic,0.9,66
+CUST0844,33,Female,Asansol,42880.0,5,226.57,Groceries,Mixed,Platinum,5.4,25
+CUST0845,48,Male,Kolkata,60676.0,16,739.65,Home & Garden,Mixed,Gold,8.6,62
+CUST0846,28,Male,Howrah,107793.0,7,235.49,Home & Garden,Online,Basic,0.2,15
+CUST0847,33,Male,Bengaluru,30702.0,9,391.32,Home & Garden,Online,Silver,9.4,31
+CUST0848,25,Female,Siliguri,24661.0,3,81.28,Groceries,Online,Silver,1.2,18
+CUST0849,21,Female,Bengaluru,101779.0,15,571.64,Clothing,Online,Basic,8.5,60
+CUST0850,57,Female,Asansol,59767.0,16,535.69,Groceries,Online,Silver,4.9,65
+CUST0851,21,Male,Bengaluru,48273.0,18,609.69,Electronics,In-Store,Basic,6.7,61
+CUST0852,42,Male,Bengaluru,90998.0,14,667.55,Clothing,Online,Basic,5.2,70
+CUST0853,20,Female,Bardhaman,49860.0,3,185.31,Home & Garden,Mixed,Platinum,4.9,1
+CUST0854,49,Male,Durgapur,110650.0,12,520.05,Sports,Online,Silver,8.4,47
+CUST0855,20,Female,Kharagpur,81948.0,9,265.4,Clothing,In-Store,Gold,7.6,38
+CUST0856,44,Male,Siliguri,52802.0,7,343.48,Home & Garden,In-Store,Silver,4.9,23
+CUST0857,46,Male,Kolkata,118933.0,9,267.35,Clothing,In-Store,Basic,1.3,40
+CUST0858,49,Female,Bengaluru,49857.0,13,574.75,Clothing,Mixed,Silver,1.3,50
+CUST0859,36,Male,Siliguri,83552.0,18,536.09,Groceries,In-Store,Silver,8.1,60
+CUST0860,38,Male,Mumbai,72482.0,5,153.2,Electronics,Mixed,Platinum,5.4,30
+CUST0861,22,Male,Bengaluru,97544.0,13,548.74,Sports,Online,Basic,4.9,57
+CUST0862,35,Male,Bardhaman,104038.0,4,143.95,Home & Garden,Online,Gold,6.9,20
+CUST0863,45,Male,Bardhaman,65800.0,2,96.1,Clothing,Online,Platinum,8.6,17
+CUST0864,59,Female,Howrah,46165.0,16,418.02,Sports,Online,Silver,6.4,39
+CUST0865,39,Male,Delhi,76499.0,9,205.67,Clothing,Online,Platinum,7.7,37
+CUST0866,38,Female,Asansol,48057.0,9,226.83,Electronics,Online,Basic,7.7,27
+CUST0867,23,Male,Kharagpur,115335.0,6,165.85,Sports,Online,Platinum,3.7,18
+CUST0868,18,Male,Mumbai,68413.0,11,361.27,Home & Garden,Online,Gold,2.9,47
+CUST0869,22,Female,Asansol,55867.0,1,55.4,Clothing,Online,Basic,8.1,2
+CUST0870,58,Female,Asansol,69617.0,4,226.25,Electronics,Mixed,Platinum,3.9,24
+CUST0871,29,Male,Howrah,31322.0,13,324.75,Sports,Online,Silver,9.1,47
+CUST0872,43,Male,Bardhaman,40710.0,13,601.97,Clothing,In-Store,Silver,0.9,59
+CUST0873,63,Female,Durgapur,95010.0,13,648.17,Clothing,Online,Silver,0.8,56
+CUST0874,51,Female,Siliguri,48578.0,2,100.29,Home & Garden,Mixed,Basic,9.3,1
+CUST0875,31,Female,Kolkata,38827.0,9,383.06,Electronics,Mixed,Silver,6.6,33
+CUST0876,43,Female,Durgapur,78416.0,8,352.37,Groceries,In-Store,Gold,3.9,34
+CUST0877,62,Male,Durgapur,94643.0,7,414.33,Clothing,In-Store,Basic,7.6,49
+CUST0878,44,Male,Delhi,82974.0,4,216.94,Sports,Online,Basic,6.8,31
+CUST0879,26,Male,Delhi,89901.0,18,400.7,Home & Garden,Mixed,Basic,5.4,59
+CUST0880,43,Male,Durgapur,46080.0,3,152.54,Home & Garden,Mixed,Silver,1.2,14
+CUST0881,64,Male,Bardhaman,29455.0,6,228.55,Clothing,Mixed,Gold,8.2,23
+CUST0882,39,Female,Asansol,102533.0,12,515.22,Clothing,In-Store,Gold,8.7,53
+CUST0883,64,Female,Siliguri,56933.0,12,358.97,Clothing,Online,Platinum,1.9,48
+CUST0884,47,Female,Asansol,58729.0,8,372.24,Groceries,Mixed,Silver,8.5,40
+CUST0885,60,Male,Asansol,98205.0,1,145.04,Clothing,Online,Basic,8.8,1
+CUST0886,65,Female,Asansol,78906.0,4,153.73,Electronics,In-Store,Platinum,5.6,20
+CUST0887,34,Male,Siliguri,76397.0,11,270.93,Sports,Online,Gold,6.6,37
+CUST0888,43,Male,Siliguri,119125.0,3,190.23,Clothing,Mixed,Silver,3.9,10
+CUST0889,53,Male,Howrah,48912.0,13,541.14,Groceries,Online,Gold,3.0,62
+CUST0890,18,Female,Kharagpur,88196.0,17,686.96,Sports,Online,Platinum,7.3,84
+CUST0891,25,Male,Durgapur,66425.0,10,385.32,Home & Garden,In-Store,Gold,8.6,47
+CUST0892,52,Male,Bengaluru,71715.0,12,396.54,Clothing,In-Store,Basic,6.6,44
+CUST0893,32,Female,Howrah,103212.0,15,572.88,Sports,In-Store,Gold,5.2,54
+CUST0894,64,Male,Howrah,77696.0,10,326.29,Home & Garden,Online,Basic,1.8,16
+CUST0895,39,Female,Kolkata,78457.0,14,456.91,Groceries,Online,Basic,0.7,57
+CUST0896,31,Male,Bengaluru,91813.0,13,593.33,Electronics,In-Store,Silver,4.6,62
+CUST0897,43,Female,Delhi,55876.0,5,261.79,Clothing,Mixed,Basic,0.7,23
+CUST0898,45,Male,Kolkata,44020.0,6,308.02,Electronics,In-Store,Basic,5.8,35
+CUST0899,40,Male,Delhi,38880.0,2,132.54,Groceries,Online,Basic,4.0,1
+CUST0900,31,Female,Kharagpur,18000.0,17,482.59,Sports,Mixed,Silver,7.6,63
+CUST0901,41,Male,Mumbai,116405.0,4,243.95,Sports,Online,Gold,3.2,18
+CUST0902,19,Female,Delhi,37420.0,14,546.23,Groceries,Online,Platinum,6.0,58
+CUST0903,62,Male,Asansol,59469.0,10,466.0,Groceries,Online,Basic,5.5,54
+CUST0904,43,Female,Delhi,58080.0,3,101.46,Clothing,Online,Silver,0.2,11
+CUST0905,31,Male,Bengaluru,72685.0,3,134.11,Home & Garden,In-Store,Platinum,0.9,11
+CUST0906,24,Male,Siliguri,85393.0,15,379.89,Electronics,Online,Basic,3.0,48
+CUST0907,20,Male,Bengaluru,86512.0,6,302.78,Electronics,Online,Gold,8.8,38
+CUST0908,64,Female,Kharagpur,50423.0,17,443.58,Sports,Online,Gold,1.6,52
+CUST0909,40,Female,Howrah,60822.0,12,369.89,Sports,Online,Basic,7.2,42
+CUST0910,63,Female,Asansol,72064.0,20,416.18,Clothing,In-Store,Gold,9.7,84
+CUST0911,60,Female,Mumbai,58783.0,11,336.75,Groceries,Online,Gold,7.9,46
+CUST0912,64,Female,Kharagpur,105184.0,4,231.86,Electronics,Online,Basic,2.6,19
+CUST0913,62,Male,Howrah,77274.0,6,173.81,Clothing,In-Store,Basic,9.1,23
+CUST0914,35,Male,Bardhaman,83372.0,1,113.09,Sports,In-Store,Basic,1.1,1
+CUST0915,55,Male,Bengaluru,81572.0,20,758.42,Sports,In-Store,Basic,4.8,83
+CUST0916,52,Male,Kharagpur,94337.0,16,716.55,Electronics,Online,Silver,8.9,68
+CUST0917,32,Male,Bengaluru,69526.0,15,348.31,Sports,Mixed,Silver,6.5,56
+CUST0918,42,Female,Mumbai,32579.0,17,790.79,Sports,Mixed,Basic,4.3,64
+CUST0919,54,Male,Howrah,74992.0,8,344.29,Home & Garden,In-Store,Platinum,3.1,38
+CUST0920,45,Female,Bengaluru,48716.0,12,596.61,Groceries,In-Store,Basic,3.9,63
+CUST0921,27,Male,Siliguri,51785.0,10,463.56,Sports,Online,Basic,5.2,43
+CUST0922,56,Female,Delhi,79659.0,15,383.51,Home & Garden,Mixed,Basic,3.3,61
+CUST0923,34,Female,Kolkata,95957.0,9,252.08,Clothing,Online,Silver,9.7,37
+CUST0924,56,Female,Mumbai,65532.0,2,99.29,Sports,Online,Silver,9.3,4
+CUST0925,39,Male,Kolkata,72721.0,5,195.27,Clothing,Online,Basic,8.7,13
+CUST0926,43,Male,Durgapur,107555.0,6,197.48,Sports,Online,Basic,4.3,16
+CUST0927,61,Male,Delhi,71019.0,7,197.97,Electronics,Mixed,Gold,7.0,29
+CUST0928,42,Male,Mumbai,130042.0,1,122.43,Home & Garden,In-Store,Platinum,9.0,7
+CUST0929,34,Female,Kharagpur,79138.0,7,171.27,Home & Garden,In-Store,Basic,8.5,36
+CUST0930,30,Female,Siliguri,20981.0,20,388.25,Electronics,In-Store,Basic,4.3,76
+CUST0931,37,Female,Kharagpur,83834.0,12,374.24,Groceries,Online,Silver,1.3,53
+CUST0932,42,Female,Bardhaman,74529.0,16,343.18,Home & Garden,Online,Gold,0.9,59
+CUST0933,21,Male,Durgapur,97244.0,16,522.63,Clothing,In-Store,Basic,5.9,56
+CUST0934,27,Female,Siliguri,81830.0,11,402.44,Home & Garden,In-Store,Platinum,6.5,48
+CUST0935,20,Male,Bengaluru,61539.0,4,153.8,Groceries,Online,Silver,8.5,17
+CUST0936,58,Female,Bengaluru,34393.0,13,558.8,Clothing,In-Store,Silver,3.1,47
+CUST0937,62,Female,Asansol,59774.0,7,273.98,Clothing,Online,Silver,1.8,39
+CUST0938,35,Female,Bengaluru,43737.0,4,157.7,Electronics,Online,Platinum,3.9,26
+CUST0939,64,Male,Howrah,50487.0,15,454.23,Sports,Online,Gold,3.7,49
+CUST0940,53,Male,Durgapur,79714.0,19,811.85,Electronics,Online,Basic,1.5,77
+CUST0941,64,Female,Howrah,106748.0,9,503.13,Sports,In-Store,Basic,6.8,39
+CUST0942,39,Female,Delhi,74867.0,11,503.08,Electronics,In-Store,Silver,5.2,54
+CUST0943,51,Female,Asansol,35103.0,8,311.2,Sports,Online,Basic,7.3,38
+CUST0944,64,Male,Asansol,76115.0,1,95.89,Home & Garden,In-Store,Gold,3.7,7
+CUST0945,25,Male,Bengaluru,94916.0,8,272.56,Clothing,In-Store,Gold,3.4,34
+CUST0946,57,Male,Siliguri,66833.0,13,250.79,Sports,Online,Gold,4.8,35
+CUST0947,61,Female,Delhi,61650.0,4,222.67,Home & Garden,Online,Platinum,8.8,22
+CUST0948,36,Male,Bardhaman,65367.0,8,350.22,Groceries,Mixed,Basic,0.6,34
+CUST0949,59,Female,Durgapur,45378.0,3,144.33,Electronics,In-Store,Gold,8.1,8
+CUST0950,58,Male,Durgapur,81207.0,9,268.39,Groceries,Mixed,Gold,3.8,22
+CUST0951,54,Female,Mumbai,61976.0,2,126.28,Home & Garden,Online,Basic,8.6,10
+CUST0952,23,Female,Kharagpur,75488.0,2,131.42,Groceries,In-Store,Gold,8.1,13
+CUST0953,43,Male,Bengaluru,42813.0,13,219.91,Groceries,Online,Basic,3.6,30
+CUST0954,51,Female,Mumbai,54064.0,15,461.63,Home & Garden,Online,Gold,7.0,59
+CUST0955,62,Female,Bardhaman,83060.0,12,460.71,Clothing,Online,Silver,1.8,51
+CUST0956,23,Female,Asansol,55679.0,4,186.41,Sports,Online,Basic,9.0,13
+CUST0957,54,Male,Kolkata,108174.0,8,457.17,Electronics,Online,Silver,4.2,42
+CUST0958,50,Female,Bardhaman,55009.0,9,209.65,Sports,Online,Silver,4.7,31
+CUST0959,39,Male,Bardhaman,70617.0,5,203.89,Electronics,Online,Basic,7.1,24
+CUST0960,38,Male,Siliguri,88315.0,20,662.87,Sports,In-Store,Basic,8.2,84
+CUST0961,23,Female,Siliguri,29541.0,18,442.04,Groceries,Online,Silver,2.5,70
+CUST0962,23,Male,Siliguri,20980.0,11,458.0,Clothing,Online,Silver,6.7,55
+CUST0963,65,Female,Siliguri,26859.0,15,582.71,Groceries,Online,Gold,4.0,66
+CUST0964,21,Male,Kharagpur,96565.0,9,405.88,Clothing,Online,Platinum,3.8,36
+CUST0965,47,Female,Bengaluru,51204.0,17,744.69,Home & Garden,In-Store,Silver,7.0,69
+CUST0966,28,Male,Durgapur,128955.0,12,593.0,Electronics,Online,Gold,4.0,47
+CUST0967,47,Female,Bengaluru,50894.0,7,186.36,Electronics,In-Store,Silver,3.6,27
+CUST0968,48,Female,Bengaluru,69614.0,10,396.74,Home & Garden,Online,Gold,8.4,53
+CUST0969,41,Female,Durgapur,103553.0,10,298.75,Sports,Online,Basic,1.2,36
+CUST0970,26,Female,Siliguri,115152.0,13,425.16,Home & Garden,Mixed,Basic,6.8,55
+CUST0971,20,Male,Bengaluru,116538.0,19,441.48,Home & Garden,In-Store,Silver,2.6,63
+CUST0972,48,Male,Kharagpur,95209.0,11,477.63,Clothing,Online,Basic,0.4,50
+CUST0973,57,Female,Siliguri,90602.0,13,529.63,Home & Garden,In-Store,Gold,1.8,65
+CUST0974,54,Male,Kharagpur,79813.0,8,233.8,Electronics,Online,Gold,6.1,36
+CUST0975,53,Female,Mumbai,84459.0,8,349.35,Groceries,In-Store,Basic,7.1,22
+CUST0976,41,Female,Bengaluru,51220.0,4,231.92,Clothing,In-Store,Silver,0.4,24
+CUST0977,48,Male,Howrah,44545.0,15,322.08,Clothing,In-Store,Gold,0.6,58
+CUST0978,23,Male,Kharagpur,64916.0,11,296.74,Sports,Mixed,Gold,9.0,43
+CUST0979,19,Female,Mumbai,60745.0,11,482.37,Groceries,Online,Basic,0.9,53
+CUST0980,37,Male,Delhi,53669.0,1,60.11,Clothing,In-Store,Basic,9.0,1
+CUST0981,45,Female,Delhi,82410.0,17,659.11,Home & Garden,Online,Silver,2.4,72
+CUST0982,28,Male,Mumbai,88883.0,15,363.04,Clothing,Online,Silver,7.5,64
+CUST0983,21,Male,Asansol,67210.0,20,622.91,Clothing,Online,Basic,3.2,86
+CUST0984,32,Male,Asansol,101938.0,6,331.92,Clothing,Online,Basic,8.6,33
+CUST0985,23,Male,Siliguri,36458.0,15,560.23,Sports,In-Store,Gold,7.1,55
+CUST0986,47,Male,Asansol,60159.0,9,398.63,Clothing,In-Store,Gold,4.1,31
+CUST0987,55,Female,Delhi,47079.0,14,605.85,Clothing,In-Store,Platinum,0.9,62
+CUST0988,19,Male,Asansol,18337.0,18,702.74,Sports,Online,Gold,7.4,77
+CUST0989,32,Male,Howrah,62933.0,17,663.42,Groceries,Online,Platinum,6.2,71
+CUST0990,28,Female,Delhi,61956.0,18,361.8,Electronics,Mixed,Basic,0.2,56
+CUST0991,25,Female,Kharagpur,102836.0,5,253.23,Sports,Online,Gold,0.3,27
+CUST0992,43,Female,Bardhaman,80770.0,20,415.29,Sports,In-Store,Basic,8.1,71
+CUST0993,62,Male,Asansol,39395.0,20,828.84,Clothing,In-Store,Silver,2.7,88
+CUST0994,61,Male,Asansol,111352.0,9,291.75,Clothing,In-Store,Silver,6.4,40
+CUST0995,22,Female,Bengaluru,95526.0,11,433.17,Electronics,Online,Basic,4.7,44
+CUST0996,23,Female,Durgapur,79552.0,1,70.14,Clothing,Mixed,Gold,8.7,1
+CUST0997,43,Female,Howrah,59338.0,18,752.58,Home & Garden,Online,Gold,9.2,86
+CUST0998,21,Female,Delhi,41014.0,6,299.3,Clothing,Mixed,Basic,10.0,22
+CUST0999,36,Male,Delhi,55695.0,2,87.49,Clothing,Online,Silver,1.7,5
+CUST1000,37,Male,Kolkata,92219.0,15,710.18,Home & Garden,Online,Basic,8.7,77
