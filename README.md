@@ -187,5 +187,5 @@ Customer Data Analysis/
     └── sales_by_customer_segment.png
 
 
-## 🎯**Internship**
+🎯**Internship**
 This project was completed for the CodSoft Data Analytics Internship – Task 4.
